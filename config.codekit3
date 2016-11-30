@@ -894,16 +894,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/style\/css\/style.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/build\/style\/css\/style-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/style\/sass\/.sass-cache\/096668430bfb78ed8a2de7083a4749de97c4fc4b\/_convert-units.scssc": {
 		"ft": 8192,
 		"oA": 1,
