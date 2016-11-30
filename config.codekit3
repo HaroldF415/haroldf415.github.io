@@ -207,7 +207,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/blog_gifs\/tired.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/blog_img\/02_15_16_preview.jpg": {
 		"ft": 16384,
@@ -231,7 +231,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/blog_img\/02_20_16_preview.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/blog_img\/08_13_15_preview.jpg": {
 		"ft": 16384,
@@ -263,7 +263,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/blog_img\/08_18_15_preview.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/blog_img\/08_19_15_preview.jpg": {
 		"ft": 16384,
@@ -357,7 +357,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/gishwhes\/banner_2012.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/gishwhes\/banner_2013.png": {
 		"ft": 32768,
@@ -405,7 +405,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/gishwhes\/block_2014.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/gishwhes\/block_2015.png": {
 		"ft": 32768,
@@ -413,7 +413,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/gishwhes\/block_2015.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/index_logo.png": {
 		"ft": 32768,
@@ -421,7 +421,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/index_logo.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/index_main.png": {
 		"ft": 32768,
@@ -453,7 +453,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/og\/08_25_15_fb_og.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/og\/09_16_15_fb_og.jpg": {
 		"ft": 16384,
@@ -517,7 +517,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/projects\/parallax.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/projects\/photography.png": {
 		"ft": 32768,
@@ -525,7 +525,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/projects\/photography.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/share_icons\/email.png": {
 		"ft": 32768,
@@ -621,7 +621,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/skill_icons\/java.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/skill_icons\/jQuery.png": {
 		"ft": 32768,
@@ -629,7 +629,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/skill_icons\/jQuery.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/skill_icons\/js.png": {
 		"ft": 32768,
@@ -637,7 +637,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/skill_icons\/js.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/skill_icons\/json.png": {
 		"ft": 32768,
@@ -645,7 +645,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/skill_icons\/json.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/skill_icons\/laravel.png": {
 		"ft": 32768,
@@ -701,7 +701,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/skill_icons\/python.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/skill_icons\/rails.png": {
 		"ft": 32768,
@@ -733,7 +733,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/skill_icons\/sass.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/skill_icons\/windows.png": {
 		"ft": 32768,
@@ -757,7 +757,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/social_icons\/github.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/social_icons\/googlePlus.png": {
 		"ft": 32768,
@@ -789,7 +789,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/social_icons\/reddit.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/social_icons\/twitter.png": {
 		"ft": 32768,
@@ -797,7 +797,7 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/social_icons\/twitter.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/social_icons\/wordpress.png": {
 		"ft": 32768,
@@ -891,6 +891,16 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/build\/style\/css\/_normalize-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/style\/css\/style.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/style\/css\/style-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1620,7 +1630,7 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/style\/css\/style.css",
-		"oF": 2,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -1646,15 +1656,6 @@
 	},
 "hooks": [
 	{
-		"enabled": 1,
-		"name": "Hook #2",
-		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFgcIDxQcJicqMTU6Oz5CRktMT1VZXV9VJG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0ZXNWJGNsYXNzEAKAAoAV0hALERNaTlMub2JqZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmlnaHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KAE4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5OtIfCygpEAGAB9IrLC0uWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1NlbGZFeHByZXNzaW9uoy0vMFxOU0V4cHJlc3Npb25YTlNPYmplY3TSEAsyNKEzgAmADNMLHzY3ODlZTlNLZXlQYXRogAsQCoAKXWlucHV0RnVsbFBhdGjSKyw8PV8QHE5TS2V5UGF0aFNwZWNpZmllckV4cHJlc3Npb26jPC8w0issP0BeTlNNdXRhYmxlQXJyYXmjP0EwV05TQXJyYXnSKyxDRF8QE05TS2V5UGF0aEV4cHJlc3Npb26kQ0UvMF8QFE5TRnVuY3Rpb25FeHByZXNzaW9u00cfC0hJSl8QD05TQ29uc3RhbnRWYWx1ZYAPEACAEF8QFGhhcm9sZGY0MTUuZ2l0aHViLmlv0issTU5fEBlOU0NvbnN0YW50VmFsdWVFeHByZXNzaW9uo00vMNQLUFFSU0koVFpOU01vZGlmaWVyV05TRmxhZ3NeTlNPcGVyYXRvclR5cGWAEhBj0issVldfEBVOU0luUHJlZGljYXRlT3BlcmF0b3KjVlgwXxATTlNQcmVkaWNhdGVPcGVyYXRvctIrLFpbXxAVTlNDb21wYXJpc29uUHJlZGljYXRlo1pcMFtOU1ByZWRpY2F0ZdIrLEFeokEw0issYGFfEBNOU0NvbXBvdW5kUHJlZGljYXRlo2BcMF8QD05TS2V5ZWRBcmNoaXZlctFkZVRyb290gAEACAARABoAIwAtADIANwBQAFYAXQB3AIkAkACSAJQAlgCbAKYAqACqAKwAtQDJANwA8gD0APYA+AD6AQUBDwEeATEBPQE\/AUEBQwFFAUcBVAFZAVsBXQFiAW0BdgGJAY0BmgGjAagBqgGsAa4BtQG\/AcEBwwHFAdMB2AH3AfsCAAIPAhMCGwIgAjYCOwJSAlkCawJtAm8CcQKIAo0CqQKtArYCwQLJAtgC2gLcAuEC+QL9AxMDGAMwAzQDQANFA0gDTQNjA2cDeQN8A4EAAAAAAAACAQAAAAAAAABmAAAAAAAAAAAAAAAAAAADgw==",
-		"runOrder": 1,
-		"scriptSourceString": "",
-		"scriptType": 1,
-		"uuidString": "EA1875E3-E505-470A-BBD5-DB8E32FA54A0"
-		},
-	{
 		"enabled": 0,
 		"name": "Hook #1",
 		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFgcIDxQcJicqMTU6Oz5CRktMT1VZXV9VJG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0ZXNWJGNsYXNzEAKAAoAV0hALERNaTlMub2JqZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmlnaHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KAE4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5OtIfCygpEAGAB9IrLC0uWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1NlbGZFeHByZXNzaW9uoy0vMFxOU0V4cHJlc3Npb25YTlNPYmplY3TSEAsyNKEzgAmADNMLHzY3ODlZTlNLZXlQYXRogAsQCoAKXWlucHV0RnVsbFBhdGjSKyw8PV8QHE5TS2V5UGF0aFNwZWNpZmllckV4cHJlc3Npb26jPC8w0issP0BeTlNNdXRhYmxlQXJyYXmjP0EwV05TQXJyYXnSKyxDRF8QE05TS2V5UGF0aEV4cHJlc3Npb26kQ0UvMF8QFE5TRnVuY3Rpb25FeHByZXNzaW9u00cfC0hJSl8QD05TQ29uc3RhbnRWYWx1ZYAPEACAEF8QFGhhcm9sZGY0MTUuZ2l0aHViLmlv0issTU5fEBlOU0NvbnN0YW50VmFsdWVFeHByZXNzaW9uo00vMNQLUFFSU0koVFpOU01vZGlmaWVyV05TRmxhZ3NeTlNPcGVyYXRvclR5cGWAEhBj0issVldfEBVOU0luUHJlZGljYXRlT3BlcmF0b3KjVlgwXxATTlNQcmVkaWNhdGVPcGVyYXRvctIrLFpbXxAVTlNDb21wYXJpc29uUHJlZGljYXRlo1pcMFtOU1ByZWRpY2F0ZdIrLEFeokEw0issYGFfEBNOU0NvbXBvdW5kUHJlZGljYXRlo2BcMF8QD05TS2V5ZWRBcmNoaXZlctFkZVRyb290gAEACAARABoAIwAtADIANwBQAFYAXQB3AIkAkACSAJQAlgCbAKYAqACqAKwAtQDJANwA8gD0APYA+AD6AQUBDwEeATEBPQE\/AUEBQwFFAUcBVAFZAVsBXQFiAW0BdgGJAY0BmgGjAagBqgGsAa4BtQG\/AcEBwwHFAdMB2AH3AfsCAAIPAhMCGwIgAjYCOwJSAlkCawJtAm8CcQKIAo0CqQKtArYCwQLJAtgC2gLcAuEC+QL9AxMDGAMwAzQDQANFA0gDTQNjA2cDeQN8A4EAAAAAAAACAQAAAAAAAABmAAAAAAAAAAAAAAAAAAADgw==",
@@ -1662,6 +1663,15 @@
 		"scriptSourceString": "",
 		"scriptType": 1,
 		"uuidString": "DADE2CBE-C8DE-4FB1-BF79-1FD17B940B96"
+		},
+	{
+		"enabled": 1,
+		"name": "Hook #2",
+		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFgcIDxQcJicqMTU6Oz5CRktMT1VZXV9VJG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0ZXNWJGNsYXNzEAKAAoAV0hALERNaTlMub2JqZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmlnaHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KAE4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5OtIfCygpEAGAB9IrLC0uWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1NlbGZFeHByZXNzaW9uoy0vMFxOU0V4cHJlc3Npb25YTlNPYmplY3TSEAsyNKEzgAmADNMLHzY3ODlZTlNLZXlQYXRogAsQCoAKXWlucHV0RnVsbFBhdGjSKyw8PV8QHE5TS2V5UGF0aFNwZWNpZmllckV4cHJlc3Npb26jPC8w0issP0BeTlNNdXRhYmxlQXJyYXmjP0EwV05TQXJyYXnSKyxDRF8QE05TS2V5UGF0aEV4cHJlc3Npb26kQ0UvMF8QFE5TRnVuY3Rpb25FeHByZXNzaW9u00cfC0hJSl8QD05TQ29uc3RhbnRWYWx1ZYAPEACAEF8QFGhhcm9sZGY0MTUuZ2l0aHViLmlv0issTU5fEBlOU0NvbnN0YW50VmFsdWVFeHByZXNzaW9uo00vMNQLUFFSU0koVFpOU01vZGlmaWVyV05TRmxhZ3NeTlNPcGVyYXRvclR5cGWAEhBj0issVldfEBVOU0luUHJlZGljYXRlT3BlcmF0b3KjVlgwXxATTlNQcmVkaWNhdGVPcGVyYXRvctIrLFpbXxAVTlNDb21wYXJpc29uUHJlZGljYXRlo1pcMFtOU1ByZWRpY2F0ZdIrLEFeokEw0issYGFfEBNOU0NvbXBvdW5kUHJlZGljYXRlo2BcMF8QD05TS2V5ZWRBcmNoaXZlctFkZVRyb290gAEACAARABoAIwAtADIANwBQAFYAXQB3AIkAkACSAJQAlgCbAKYAqACqAKwAtQDJANwA8gD0APYA+AD6AQUBDwEeATEBPQE\/AUEBQwFFAUcBVAFZAVsBXQFiAW0BdgGJAY0BmgGjAagBqgGsAa4BtQG\/AcEBwwHFAdMB2AH3AfsCAAIPAhMCGwIgAjYCOwJSAlkCawJtAm8CcQKIAo0CqQKtArYCwQLJAtgC2gLcAuEC+QL9AxMDGAMwAzQDQANFA0gDTQNjA2cDeQN8A4EAAAAAAAACAQAAAAAAAABmAAAAAAAAAAAAAAAAAAADgw==",
+		"runOrder": 1,
+		"scriptSourceString": "",
+		"scriptType": 1,
+		"uuidString": "EA1875E3-E505-470A-BBD5-DB8E32FA54A0"
 		}
 	],
 "manualImportLinks": {
