@@ -1,0 +1,172 @@
+/* Start index/_main.sass */
+
+/* STARTS | Global style for index.html */
+.index_h1
+  letter-spacing: 0.2em
+/* ENDS | Global style for index.html */
+
+/* STARTS | _splash */
+.index_splash
+  margin-top: -1.2em
+  background:
+    image: url(../../img/index_splash.jpg)
+    position: center
+    size: cover
+  display: flex
+  height: 100vh
+
+  flex:
+    direction: column
+  justify:
+    content: center
+  align:
+    items: center
+  color: white
+  overflow: initial
+
+.index_splash_logo
+  background:
+    image: url(../../img/index_logo.png)
+    position: center
+    repeat: no-repeat
+    size: contain
+
+  height: 40%
+  width: 40%
+  margin-top: 5em
+/* ENDS | _splash */
+
+
+/* STARTS | _profile */
+.index_profile
+  text-align: center
+
+.index_main_pic
+  display: flex
+  margin: 0 auto
+  padding: 0.5em 0em
+
+/* ENDS | _profile */
+
+
+/* STARTS | _index_contact */
+.index_contact
+  overflow: auto
+  display: flex
+  display: -webkit-flex
+  flex-flow: row wrap
+  -webkit-flex-direction: row
+  -webkit-flex-wrap: wrap
+  justify-content: space-around
+  padding: 1em 0
+
+.social_icons
+  border-radius: 0.25em
+  width: 4em
+  height: 4em
+  margin: 0.25em auto
+  background:
+    size: contain
+    repeat: no-repeat
+
+#linkedIn
+  background-image: url('../../img/social_icons/linkedIn.png')
+
+#twitter
+  background-image: url('../../img/social_icons/twitter.png')
+
+#gitHub
+  background-image: url('../../img/social_icons/github.png')
+
+#instagram
+  background-image: url('../../img/social_icons/instagram.png')
+/* ENDS | _index_contact */
+
+/* STARTS | _index_about_me */
+.index_about_me
+  overflow: auto
+  padding: 0em 0 1em 0
+  background-color: #54808E
+
+.index_about_me_container
+  width: 85%
+  margin: 0 auto
+  overflow: auto
+  color: #d3d3d3
+  border-radius: 0.6em
+  background-color: #191919
+  p
+    text-align: center
+    padding: 0em 2em
+  a
+    color: #fff
+    text-decoration: underline
+/* ENDS | _index_about_me */
+
+/* STARTS | _index_projects */
+.index_projects
+  overflow: auto
+  background-color: #093847
+  padding-bottom: 1em
+
+.index_projects_container
+  display: flex
+
+.index_project_links
+  width: 14em
+  height: 7.5em
+  margin: 0.5em auto 0.75em auto
+  background:
+    size: contain
+    repeat: no-repeat
+
+#gishwhes
+  background-image: url('../../img/projects/gishwhes.png')
+
+#parallax
+  background-image: url('../../img/projects/parallax.png')
+
+#karen_t
+  background-image: url('../../img/projects/photography.png')
+
+#c_steph
+  background-image: url('../../img/projects/parallax.png')
+
+@media (max-width: 940px)
+  .projects
+    margin: 1em auto
+
+  .index_projects_container
+    flex-direction: column
+/* ENDS | _index_projects */
+
+
+/* STARTS | _index_skills */
+.index_skills
+  overflow: auto
+  padding-bottom: 1em
+  background-color: #447884
+
+.index_skills_container
+  display: flex
+  flex-wrap: wrap
+  flex-direction: row
+  justify-content: space-around
+  align-items: center
+  margin: 1em 0em
+
+.index_skill_icons
+  height: 3.5em
+  margin: 0.5em 0em 0.75em 0em
+  display: none
+
+.index_skill_sub_container
+  @extend .index_skills_container
+  width: 250px
+  margin: 0.40em 0em
+  border: 1px solid #fff
+    radius: 5px
+  flex-direction: row
+/* ENDS | _index_skills */
+
+/* Ends index/ _main.sass */

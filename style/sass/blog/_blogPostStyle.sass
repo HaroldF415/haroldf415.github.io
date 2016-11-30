@@ -1,0 +1,68 @@
+/* Start _blogPostHeader.sass */
+.blog_entries
+  box-shadow: 0 15px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+  border-radius: 25px
+  margin: 2em 10%
+  padding: 4em
+
+.blogPostHeader
+  background:
+    image: url(../../../img/og/fb_og_2015-08-12.jpg)
+    position: center
+    size: cover
+    repeat: no-repeat
+  height: 50vh
+  overflow: initial
+
+.feb_15_16
+  background:
+    image: url(../../../img/blog_img/website_structure_refactoring_code.jpg)
+
+.feb_20_16
+  background:
+    image: url(../../../img/og/02_16_16_fb_og.jpg)
+
+.aug_25_15
+  background:
+    image: url(../../../img/og/08_25_15_fb_og.jpg)
+
+.sept_16_15
+  background:
+    image: url(../../../img/og/09_16_15_fb_og.jpg)
+
+.blog_container
+  background-color: #D0DDE2
+  height: 100%
+
+
+.blog_entries
+  background: white
+
+.blogPostAuthor
+
+  .blog_post_author_pic
+    @extend .index_main_pic
+    height: 6em
+
+
+/* MOBILE DEVICES */
+@media (max-width: 650px)
+  .blog_entries
+    h1
+      font-size: 1.2em
+    font-size: 0.8em
+    margin: 1em 0.75em
+    padding: 1em 1.5em
+
+
+  .blogPostHeader
+    display: none
+
+  .blog_container
+    padding: 1em 0 1.5em 0
+
+  .blog_container:after
+    display: block
+    height: 50px
+
+/* Ends _blogPostStyle.sass */

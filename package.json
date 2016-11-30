@@ -1,0 +1,21 @@
+{
+  "name": "haroldf415.github.io",
+  "version": "1.0.0",
+  "description": "Node_Module dir to keep all my modules nice and neat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaroldF415/haroldf415.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaroldF415/haroldf415.github.io/issues"
+  },
+  "homepage": "https://github.com/HaroldF415/haroldf415.github.io#readme",
+  "dependencies": {}
+}

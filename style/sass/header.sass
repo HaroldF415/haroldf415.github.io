@@ -1,0 +1,30 @@
+/* START | header.sass */
+
+.main_headers
+  top: 0
+  left: 0
+  width: 100%
+  z-index: 999
+  position: fixed
+
+nav
+  font-family: 'Slabo 27px', serif
+  display: flex
+  padding: 1em 0
+  letter-spacing: 0.3em
+  background-color: #6C8F9B
+  justify-content: space-around
+
+.menu
+  &:hover
+    color: white
+
+@media (max-width: 550px)
+  #index_about_me_a, #index_projects_a
+    display: none
+
+@media (max-width: 400px)
+  nav
+    font-size: 0.95em
+    letter-spacing: 0.1em
+/* ENDS | header.sass */

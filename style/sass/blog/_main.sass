@@ -1,0 +1,142 @@
+/* STARTS | _blog/_main.sass (CV) */
+@import '_blogPostStyle'
+
+
+.blog_main
+   font-family: 'PT Sans Narrow', sans-serif
+   letter-spacing: 0.3em
+   h1
+      letter-spacing: 0.2em
+
+.blog_main_container
+   font-size: 0.8em
+   display: flex
+   overflow: auto
+   padding: 1em 5em
+   margin: 0 20% 0 20%
+   article
+      width: 100%
+
+.blog_titles
+   color: #000
+   letter-spacing: 0
+   font-size: 1.3em
+
+
+.blog_left_column, .blog_right_column
+   display: flex
+   flex-direction: column
+
+/* Start | Left Column */
+.blog_left_column
+   width: 70%
+   padding: 0 2em
+
+.blog_entries_preview
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+   margin: 1em 0
+   border-radius: 10px
+   header
+      p
+         text-align: center
+
+/* Ends | Left Column */
+
+
+/* Start | Right Column */
+
+.blog_right_column
+   border-radius: 10px
+   background-color: #DCDCDC
+   width: 30%
+   margin: 1em 2em
+
+/* End | Right Column */
+
+.blog_entries_p
+   text-align: center
+   margin: 0 0
+
+.blog_img
+   margin: 0 auto
+   display: block
+   width: 25%
+   height: auto
+
+.blog_entry_banner
+   background-image: url("../../../../img/blog_img/blog_entry_banner.jpg")
+   display: block
+   height: 6em
+   position: relative
+   width: 100%
+
+.blog_entry_banner_container
+   padding: 0.5em
+
+
+@media (max-width: 1600px)
+
+   .blog_main_container
+      margin: 0 15%
+      padding: 1em 4em
+
+@media (max-width: 1400px)
+
+   .blog_main_container
+      margin: 0 10%
+      padding: 1em 3em
+
+@media (max-width: 1200px)
+
+   .blog_main_container
+      margin: 0 5%
+      padding: 0 2em
+
+   .blog_right_column
+      margin: 1em 1em
+
+@media (max-width: 950px)
+
+   .blog_main_container
+      margin: 0 2%
+      padding: 0
+
+   .blog_subheading
+      text-align: center
+
+   .blog_left_column
+      padding: 0
+
+   .blog_img
+      width: 50%
+
+   .blog_ul
+      padding-left: 1em
+
+@media (max-width: 650px)
+   .blog_entry_banner
+      height: 5em
+
+   .blog_main_container
+      font-size: 0.7em
+      flex-direction: column
+      margin: 0
+      padding: 0 7em
+
+   .blog_entry_banner_container
+      padding: 0.25em
+
+
+   .blog_left_column, .blog_right_column
+      width: 100%
+
+   .blog_right_column
+      margin: 1em 0
+
+
+@media (max-width: 550px)
+   .blog_main_container
+      padding: 0 1em
+
+
+/* ENDS | _blog/_main.sass (CV) */

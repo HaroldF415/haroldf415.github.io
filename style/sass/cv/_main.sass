@@ -1,0 +1,164 @@
+/* START | cv/_main.sass */
+
+/* STARTS | _nav */
+#cv_nav
+  @extend nav
+  background-color: #C0C0C0
+
+/* ENDS | _nav */
+
+/* STARTS | _top */
+.cv_top
+  height: 10em
+  overflow: auto
+  text-align: center
+  letter-spacing: 1em
+  background-color: #F0F0F0
+  .cv_top_main
+    font-size: 2em
+    letter-spacing: 1em
+/* ENDS | _top */
+
+/* STARTS | _layout_container */
+
+.cv_media_hidden, .cv_social_mobile
+  display: none
+
+.cv_hr_container
+  hr
+    margin: 0em
+
+.cv_layout_container
+  display: flex
+  overflow: auto
+  margin: 1.5em 0em 1.5em 0em
+  padding: 0% 15% 0% 15%
+  h1, h2
+    margin: 0em
+    color: #000
+    text-align: left
+    letter-spacing: 0.3em
+  h1
+    font-size: 1.5em
+    margin-top: 0.5em
+    margin-bottom: 0.2em
+    padding-bottom: 0.5em
+  h2
+    font-size: 1em
+
+.cv_left_column, .cv_right_column
+  display: flex
+  flex-direction: column
+  padding: 0em 1.5em 0em 1.5em
+
+.cv_left_column
+  width: 33%
+  background-color: #f0f0f0
+
+.cv_hr_container
+  padding: 2.8em 1.5em 1.5em 1.5em
+
+.cv_articles
+  padding: 0.8em 0em
+
+blockquote
+  margin: 1em 0em 0em 0em
+
+.cv_profile_title
+  font-weight: bold
+  margin: 0.5em 0em
+
+.cv_profile, .cv_social, .cv_podcasts, .cv_education, .cv_skills_container
+  ul
+    list-style-type: none
+    padding: 0em 0em 1em 0em
+    padding-bottom: 0em
+    margin: 0em
+
+.cv_podcasts
+  ul
+    li
+      margin: 0.5em 0em
+
+.cv_education_school, .cv_skill_type, .cv_experience_job_date, .cv_experience_job
+  margin: 1em 0em 0em 1em
+
+.cv_education_degree, .cv_skill, .cv_experience_job_description
+  margin-left: 1em
+
+.cv_right_column
+  width: 67%
+
+.cv_education_school
+  margin-top: 0
+  padding-top: 1.5em
+
+.cv_education
+  h2
+    text-align: right
+
+/* The Professional Statement - h1 is going out of left-column so decreasing the font-size */
+@media (max-width: 1100px)
+  .cv_professional_statement
+    h1
+      font-size: 1.3em
+
+  .cv_layout_container
+    padding: 0% 5% 0% 5%
+
+@media (max-width: 950px)
+  .cv_top
+    height: 7em
+    .cv_top_main
+      font-size: 1.3em
+      letter-spacing: 0.4em
+    .cv_top_subtitle
+      font-size: 0.9em
+      letter-spacing: 0.3em
+
+  .cv_media_hidden
+    display: block
+
+  .cv_layout_container
+    padding: 0% 1%
+    flex-direction: column
+
+    h1, h2, .cv_education, .cv_skills_container
+      text-align: center
+
+  .cv_left_column, .cv_right_column
+    margin: 0 7% 0 7%
+    text-align: center
+
+  .cv_left_column, .cv_right_column
+    width: auto
+
+  .cv_education_school, .cv_education_degree, .cv_education_school_name, .cv_skill
+    margin: 0
+
+  .cv_experience_job, .cv_experience_job_description
+    margin: 0
+    padding-top: 1em
+
+  .cv_experience_job_description
+    text-align: justify
+
+  .cv_education_school_name
+    padding: 1em 0em 0.5em 0em
+
+  .cv_skill_type
+    margin-left: 0
+
+/* apple/ android devices should be taken care of with this */
+@media (max-width: 400px)
+  .cv_top
+    height: 6.5em
+    .cv_top_main
+      font-size: 1.2em
+    .cv_top_subtitle
+      font-size: 0.7em
+  .cv_left_column
+    margin: 0
+/* ENDS | _layout_container */
+
+/* ENDS | cv/_main.sass */

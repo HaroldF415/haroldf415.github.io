@@ -1,0 +1,4 @@
+config.codekit
+.idea
+style/sass/.sass-cache
+buildgit
