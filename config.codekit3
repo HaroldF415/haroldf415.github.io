@@ -268,6 +268,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/img/blog_img/02_16_16_full_preview.jpg": {
+		"ft": 16384,
+		"iS": 191654,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/blog_img/02_16_16_full_preview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/img/blog_img/02_16_16_preview.jpg": {
 		"ft": 16384,
 		"iS": 79401,
