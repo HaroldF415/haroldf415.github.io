@@ -198,6 +198,13 @@
 		"oAP": "/build/blog/2019/01/28/programming-once-again.html",
 		"oF": 0
 		},
+	"/blog/2019/01/29/updating-portfolio.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/build/blog/2019/01/29/updating-portfolio.html",
+		"oF": 0
+		},
 	"/build": {
 		"ft": 65536,
 		"oA": 1,
