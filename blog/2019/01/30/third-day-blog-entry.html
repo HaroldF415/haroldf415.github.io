@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta author="Harold A. Fachin">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Third Day Blog Entry">                                                                                                                         <!-- Change DESCRIPTION of Blog Entry -->
+
+    <title>Programming Once Again.</title>                                                                                                                                                    <!-- Change TITLE of Blog Entry -->
+
+    <!-- Facebook og meta-tags -->
+    <meta property="og:url" content="http://haroldf415.github.io/blog/2019/01/30/third-day-blog-entry.html">                                             <!-- Change OG:URL of Blog Entry-->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content=" Third Day Blog Entry. - 01/30/19">                                                                                                   <!--  Change OG:TITLE of Blog Entry -->
+    <meta property="og:description" content="This is the third day I'm forcing myself to write some sort of code to push to my portfolio.">         <!-- Change OG:DESCRIPTION of Blog Entry -->
+    <meta property="og:image" content="http://haroldf415.github.io/img/blog_img/third-day-blog-entry.jpg">                                              <!-- Change OG:IMAGE of Blog Entry -->
+    <!-- End Facebook og meta-tags -->
+
+    <link rel="icon" href="../../../../img/favicon/pageFave.ico">
+    <!--[if IE]><link rel="shortcut icon" href="../../../../img/favicon/pageFave.ico"><![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="../../../../style/css/style.css">
+
+    <link href='https://fonts.googleapis.com/css?family=Slabo+27px' rel='stylesheet' type='text/css'>
+
+    <script type="text/javascript" src="../../../../libs/jQuery/jquery-2.1.4.js"></script>
+    <script type="text/javascript" src="../../../../libs/functions.js"></script>
+    <script src="../../../../libs/modernizr.js"></script>
+</head>
+
+<body>
+
+<h1 class="sr_only">January 30th, 2019 - Third Day Blog Entry.</h1>                                                                                                      <!-- Change HEADING 1 of Blog Entry -->
+
+<!-- Browser-Update.org -->
+<script>
+    var $buoop = {c:2};
+    function $buo_f(){
+        var e = document.createElement("script");
+        e.src = "//browser-update.org/update.min.js";
+        document.body.appendChild(e);
+    };
+    try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
+    catch(e){window.attachEvent("onload", $buo_f)}
+</script>
+<!-- End Browser-Update.org -->
+
+<!-- Google Analytics -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-72856160-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+<!-- Starts .main_headers -->
+<header class="main_headers">
+    <nav id="index_nav">
+        <h1 class="sr_only">Navigation</h1>
+        <a href="../../../../index.html" id="index_home_a" class="menu">HOME</a>
+        <a href="../../../../blog.html" id="index_blog_a" class="menu">BLOG</a>
+        <a href="../../../../cv.html" id="index_cv_a" class="menu">CV</a>
+    </nav>
+</header>
+<!-- Ends .main_headers -->
+
+<main>
+
+    <div class="blog_container">
+
+        <div  class="blogPostHeader jan_30_19"></div>
+
+        <!-- January 30th,  2019 -->
+        <article class="blog_entries">
+
+            <header class="blog_headings">
+
+                <div class="blogPostAuthor">
+
+                    <img alt="HF_Pic" title="HF_Pic" class="blog_post_author_pic" src="../../../../img/index_main.png"/>
+
+                </div>
+                <h1 class="blog_titles">Third Day Blog Entry.</h1>
+                <p>Posted on: <time datetime="2019-01-30T15:15:60Z">January 30, 2019</time></p>
+
+            </header>
+
+            <p>
+                This is the third entry for my blog after a long hiatus. Programming once again feels good. Muscle memory is kicking in and writing simple mark-up for the blog comes naturally by now.
+                Checking over the code I have a hang of it now. Every time I wish to add another blog I must copy and paste the code from the previous post. Must find a simpler way to do this.
+                Even though there are much simpler tools out there to write a simple blog, I feel that forcing myself to look and write code is beneficial. Two things must be added to the site when writing another blog post.
+                First go over to <code>blog.html</code> add a snipped of code called the  <code>blog_entries_preview</code> this as mentioned in the previous post will hold the information of  when the post was made, a small preview image of what the post is about and the title of the post.
+                Second thing to do is to go over the code that I will copy and paste for each blog entry. Write small comments that will let me know to change the code because some of it will have the date from the previous post.
+                Not only will it have the date of the previous post but it will also link to other files that are only specific to that post. Like links and time stamps.
+            </p>
+
+            <p>
+                Writing down small comments on the side of code that needs to be changed is taking a little bit more time than I expected it to be. There is a constant need to get everything precisely like I want it or else I won't continue with the next step.
+                This I believe to be my greatest hurdle to overcome. I've spent hours on something that wasn't to my liking and could not move past it unless I fixed it. For now I will end the post and continue it later.
+                Every time I add a blog post I create a new folder that contains the HTML file of the blog entry. When submitting it to Github I must remember that the following line of code does not work for some reason.
+            </p>
+            <code>git commit -a -m "random description about the files being committed"</code>
+            <p>
+                The reason why I use the code above is because it came up when I was reading the book Pro Git by Scott Chacon and Ben Straub. Decided to give the book another look to find out what exactly this line of code did.
+                Could not get it out of my head as to why after adding another folder (directory) and another html the line of code did not work.
+            </p>
+
+            <blockquote>
+                <p>
+                    If you want to skip the staging area, Git provides a simple shortcut.
+                    Adding the <i>-a</i> option to the <i>git commit</i> command makes Git automatically stage every file that is already tracked before doing the commit, letting you skip the <i>git add</i> part.
+                </p>
+            </blockquote>
+            <cite>– Scott Chacon and Ben Straub, Pro Git</cite>
+
+            <p>
+                When I started with this project of my portfolio website I looked into may different forms on how to do it. As of right now I'm using Webstorm 2018.2 and CodeKit Version 3.7.4 -- Build 28905.
+                It can get pretty confusing trying to manage all of them at the same time just to push out content to a simple blog website. Anywho getting back to the task at hand which was why the code above wasn't working.
+            </p>
+            <p>
+                <b>5:21pm</b> - my time programming is coming to an end so I will do this quickly.
+            </p>
+
+            <p>
+                <code>git status</code>
+            </p>
+
+            <p>
+                <code>git commit -a -m "adding blog entry 01_30_19"</code>
+            </p>
+
+            <p>
+                <b>Random Thoughts:</b>
+            </p>
+            <ul>
+                <li>Figure out how to incorporate code inside the blog properly and not just writing the markup for it inside the blog post.</li>
+                <li>Also stop going back and forth with blog post and blog entry. Pick one</li>
+                <li>Look into markup language again. I feel that I'm using the <code>p</code> tag constantly to get some space between what I'm saying and code that I want to show.</li>
+            </ul>
+            <p>
+                <b>5:25pm</b> - Testing the commit shortcut went as expected. Files that have not yet been tracked with: <code>git add .</code> are not committed therefore not pushed into the remote repository.
+            </p>
+            <p>
+                <b>5:35pm</b> - I will now end the post and add it to the remote repository with the correct git commands. Will continue with adding the comments to the copy/paste idea later tonight.
+            </p>
+        </article>
+
+        <!-- Start  blog_entry_nav -->
+        <div class="blog_entry_nav">
+            <a href="../29/updating-portfolio.html">← Previous Entry</a>
+        </div>
+        <div class="blog_entry_nav">
+            <a href="../30/third-day-blog-entry.html"> Next Entry →</a>
+        </div>
+        <!-- End  blog_entry_nav -->
+
+    </div>
+
+</main>
+
+<footer>
+    <p>&#169;2019 - Harold A. Fachin</p>
+</footer>
+
+</body>
+
+</html>
