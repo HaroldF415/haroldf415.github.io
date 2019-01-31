@@ -7,13 +7,14 @@
 
 .blogPostHeader
   background:
-    image: url(../../../img/og/fb_og_2015-08-12.jpg)
+    /* image: url(../../../img/og/fb_og_2015-08-12.jpg) -- THIS LINE OF CODE CALLED THE ORIGINAL IMG OF THE FIRST BLOG POST EVERY TIME THE PAGES LOADS */
     position: center
     size: cover
     repeat: no-repeat
   height: 50vh
   overflow: initial
 
+  /*  STARTS -- THESE CLASSES ARE TO CALL IMG WHEN BLOG ENTRIES ARE OPENED_THEY ALSO SERVE AS IMGs FOR OG:IMG */
 .feb_15_16
   background:
     image: url(../../../img/blog_img/website_structure_refactoring_code.jpg)
@@ -33,6 +34,8 @@
 .sept_16_15
   background:
     image: url(../../../img/og/09_16_15_fb_og.jpg)
+
+/*  ENDS -- THESE CLASSES ARE TO CALL IMG WHEN BLOG ENTRIES ARE OPENED_THEY ALSO SERVE AS IMGs FOR OG:IMG */
 
 .blog_container
   background-color: #D0DDE2
