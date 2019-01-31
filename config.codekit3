@@ -322,6 +322,28 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/img/blog_img/08.12.15_blog_banner.jpg": {
+		"ft": 16384,
+		"iS": 425806,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/blog_img/08.12.15_blog_banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/blog_img/08.13.15_blog_banner.jpg": {
+		"ft": 16384,
+		"iS": 576727,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/blog_img/08.13.15_blog_banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/img/blog_img/08_13_15_preview.jpg": {
 		"ft": 16384,
 		"iS": 52771,
@@ -452,6 +474,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/img/blog_img/index_main.png": {
+		"ft": 32768,
+		"iS": 27750,
+		"oA": 0,
+		"oAP": "/build/img/blog_img/index_main.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"/img/blog_img/js_context.jpg": {
