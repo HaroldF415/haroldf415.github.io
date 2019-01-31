@@ -335,10 +335,32 @@
 		},
 	"/img/blog_img/08.13.15_blog_banner.jpg": {
 		"ft": 16384,
-		"iS": 576727,
+		"iS": 862823,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/img/blog_img/08.13.15_blog_banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/blog_img/08.14.15_blog_banner.jpg": {
+		"ft": 16384,
+		"iS": 576727,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/blog_img/08.14.15_blog_banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/blog_img/08.17.15_blog_banner.jpg": {
+		"ft": 16384,
+		"iS": 253935,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/blog_img/08.17.15_blog_banner.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
