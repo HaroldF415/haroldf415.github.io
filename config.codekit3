@@ -7,11 +7,12 @@
 		"uuidString": "BB55F915-2954-4BED-88D6-92B3B7F976EA"
 		}
 	],
-"creatorBuild": "28905",
+"creatorBuild": "31491",
 "files": {
 	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/.gitignore",
 		"oF": 0
@@ -19,6 +20,7 @@
 	"/.idea/.name": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/.idea/.name",
 		"oF": 0
@@ -26,6 +28,7 @@
 	"/.idea/dictionaries/hFachin.xml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/.idea/dictionaries/hFachin.xml",
 		"oF": 0
@@ -33,6 +36,7 @@
 	"/.idea/encodings.xml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/.idea/encodings.xml",
 		"oF": 0
@@ -40,6 +44,7 @@
 	"/.idea/haroldf415.github.io.iml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/.idea/haroldf415.github.io.iml",
 		"oF": 0
@@ -47,6 +52,7 @@
 	"/.idea/modules.xml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/.idea/modules.xml",
 		"oF": 0
@@ -54,6 +60,7 @@
 	"/.idea/vcs.xml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/.idea/vcs.xml",
 		"oF": 0
@@ -61,6 +68,7 @@
 	"/.idea/watcherTasks.xml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/.idea/watcherTasks.xml",
 		"oF": 0
@@ -68,6 +76,7 @@
 	"/.idea/workspace.xml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/.idea/workspace.xml",
 		"oF": 0
@@ -75,6 +84,7 @@
 	"/blog.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/blog.html",
 		"oF": 0
@@ -82,6 +92,7 @@
 	"/blog/2015/08/12/getting-started-with-git-and-github.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/blog/2015/08/12/getting-started-with-git-and-github.html",
 		"oF": 0
@@ -89,6 +100,7 @@
 	"/blog/2015/08/13/beginning-to-style-my-website.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/blog/2015/08/13/beginning-to-style-my-website.html",
 		"oF": 0
@@ -96,6 +108,7 @@
 	"/blog/2015/08/14/launching-my-website-on-github-pages.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/blog/2015/08/14/launching-my-website-on-github-pages.html",
 		"oF": 0
@@ -103,6 +116,7 @@
 	"/blog/2015/08/17/using-different-subreddits-to-get-feedback-on-my-website.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/blog/2015/08/17/using-different-subreddits-to-get-feedback-on-my-website.html",
 		"oF": 0
@@ -110,6 +124,7 @@
 	"/blog/2015/08/18/reading-the-document-outlining-algorithm.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/blog/2015/08/18/reading-the-document-outlining-algorithm.html",
 		"oF": 0
@@ -117,6 +132,7 @@
 	"/blog/2015/08/19/learning-to-use-package-control-on-sublime.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/blog/2015/08/19/learning-to-use-package-control-on-sublime.html",
 		"oF": 0
@@ -124,6 +140,7 @@
 	"/blog/2015/08/24/adding-a-splash-page-on-my-website.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/blog/2015/08/24/adding-a-splash-page-on-my-website.html",
 		"oF": 0
@@ -131,6 +148,7 @@
 	"/blog/2015/08/25/reorganizing-my-thoughts-about-the-website.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/blog/2015/08/25/reorganizing-my-thoughts-about-the-website.html",
 		"oF": 0
@@ -138,6 +156,7 @@
 	"/blog/2015/09/16/researching-restful-APIs.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/blog/2015/09/16/researching-restful-APIs.html",
 		"oF": 0
@@ -145,6 +164,7 @@
 	"/blog/2015/12/06/purchasing-a-macbook-pro.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/blog/2015/12/06/purchasing-a-macbook-pro.html",
 		"oF": 0
@@ -152,6 +172,7 @@
 	"/blog/2015/12/08/trying-out-jekyll.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/blog/2015/12/08/trying-out-jekyll.html",
 		"oF": 0
@@ -159,6 +180,7 @@
 	"/blog/2015/12/15/installing-node-js-and-NPM.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/blog/2015/12/15/installing-node-js-and-NPM.html",
 		"oF": 0
@@ -166,6 +188,7 @@
 	"/blog/2016/02/15/website-structure-refactoring-code.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/blog/2016/02/15/website-structure-refactoring-code.html",
 		"oF": 0
@@ -173,6 +196,7 @@
 	"/blog/2016/02/16/school-work-plus-programming-on-the-side.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/blog/2016/02/16/school-work-plus-programming-on-the-side.html",
 		"oF": 0
@@ -180,6 +204,7 @@
 	"/blog/2016/02/20/refresher-course-css3-no-sleep.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/blog/2016/02/20/refresher-course-css3-no-sleep.html",
 		"oF": 0
@@ -187,6 +212,7 @@
 	"/blog/2016/02/22/hack-summit-devtips-git-videos.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/blog/2016/02/22/hack-summit-devtips-git-videos.html",
 		"oF": 0
@@ -194,6 +220,7 @@
 	"/blog/2019/01/28/programming-once-again.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/blog/2019/01/28/programming-once-again.html",
 		"oF": 0
@@ -201,6 +228,7 @@
 	"/blog/2019/01/29/updating-portfolio.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/blog/2019/01/29/updating-portfolio.html",
 		"oF": 0
@@ -208,6 +236,7 @@
 	"/blog/2019/01/30/third-day-blog-entry.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/blog/2019/01/30/third-day-blog-entry.html",
 		"oF": 0
@@ -215,6 +244,7 @@
 	"/blog/2019/01/31/applying-for-internships.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/blog/2019/01/31/applying-for-internships.html",
 		"oF": 0
@@ -222,6 +252,7 @@
 	"/blog/2019/02/01/nolan-daniel-fachin.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/blog/2019/02/01/nolan-daniel-fachin.html",
 		"oF": 0
@@ -229,8 +260,25 @@
 	"/blog/2019/02/04/surprise-baby-shower.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/blog/2019/02/04/surprise-baby-shower.html",
+		"oF": 0
+		},
+	"/blog/2019/08/10/i-am-a-father.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/blog/2019/08/10/i-am-a-father.html",
+		"oF": 0
+		},
+	"/blog/2019/08/11/research-hosting-site-rework-personal-website.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/blog/2019/08/11/research-hosting-site-rework-personal-website.html",
 		"oF": 0
 		},
 	"/build": {
@@ -242,6 +290,7 @@
 	"/cv.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/cv.html",
 		"oF": 0
@@ -548,6 +597,7 @@
 	"/img/favicon/pageFave.ico": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/img/favicon/pageFave.ico",
 		"oF": 0
@@ -1204,11 +1254,13 @@
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/index.html",
 		"oF": 1
 		},
 	"/libs/functions.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1219,6 +1271,7 @@
 		"tS": 0
 		},
 	"/libs/jQuery/jquery-2.1.4.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1237,6 +1290,7 @@
 		"oS": 1
 		},
 	"/libs/modernizr.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1271,6 +1325,7 @@
 	"/projects/gishwhes.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/projects/gishwhes.html",
 		"oF": 0
@@ -1298,6 +1353,7 @@
 	"/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_convert-units.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_convert-units.scssc",
 		"oF": 0
@@ -1305,6 +1361,7 @@
 	"/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_directional-values.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_directional-values.scssc",
 		"oF": 0
@@ -1312,6 +1369,7 @@
 	"/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_font-source-declaration.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_font-source-declaration.scssc",
 		"oF": 0
@@ -1319,6 +1377,7 @@
 	"/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_gradient-positions-parser.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_gradient-positions-parser.scssc",
 		"oF": 0
@@ -1326,6 +1385,7 @@
 	"/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_linear-angle-parser.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_linear-angle-parser.scssc",
 		"oF": 0
@@ -1333,6 +1393,7 @@
 	"/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_linear-gradient-parser.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_linear-gradient-parser.scssc",
 		"oF": 0
@@ -1340,6 +1401,7 @@
 	"/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_linear-positions-parser.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_linear-positions-parser.scssc",
 		"oF": 0
@@ -1347,6 +1409,7 @@
 	"/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_linear-side-corner-parser.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_linear-side-corner-parser.scssc",
 		"oF": 0
@@ -1354,6 +1417,7 @@
 	"/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_radial-arg-parser.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_radial-arg-parser.scssc",
 		"oF": 0
@@ -1361,6 +1425,7 @@
 	"/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_radial-gradient-parser.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_radial-gradient-parser.scssc",
 		"oF": 0
@@ -1368,6 +1433,7 @@
 	"/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_radial-positions-parser.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_radial-positions-parser.scssc",
 		"oF": 0
@@ -1375,6 +1441,7 @@
 	"/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_render-gradients.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_render-gradients.scssc",
 		"oF": 0
@@ -1382,6 +1449,7 @@
 	"/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_shape-size-stripper.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_shape-size-stripper.scssc",
 		"oF": 0
@@ -1389,6 +1457,7 @@
 	"/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_str-to-num.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/096668430bfb78ed8a2de7083a4749de97c4fc4b/_str-to-num.scssc",
 		"oF": 0
@@ -1396,6 +1465,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_animation.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_animation.scssc",
 		"oF": 0
@@ -1403,6 +1473,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_appearance.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_appearance.scssc",
 		"oF": 0
@@ -1410,6 +1481,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_backface-visibility.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_backface-visibility.scssc",
 		"oF": 0
@@ -1417,6 +1489,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_background-image.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_background-image.scssc",
 		"oF": 0
@@ -1424,6 +1497,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_background.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_background.scssc",
 		"oF": 0
@@ -1431,6 +1505,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_border-image.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_border-image.scssc",
 		"oF": 0
@@ -1438,6 +1513,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_calc.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_calc.scssc",
 		"oF": 0
@@ -1445,6 +1521,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_columns.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_columns.scssc",
 		"oF": 0
@@ -1452,6 +1529,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_filter.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_filter.scssc",
 		"oF": 0
@@ -1459,6 +1537,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_flex-box.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_flex-box.scssc",
 		"oF": 0
@@ -1466,6 +1545,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_font-face.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_font-face.scssc",
 		"oF": 0
@@ -1473,6 +1553,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_font-feature-settings.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_font-feature-settings.scssc",
 		"oF": 0
@@ -1480,6 +1561,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_hidpi-media-query.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_hidpi-media-query.scssc",
 		"oF": 0
@@ -1487,6 +1569,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_hyphens.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_hyphens.scssc",
 		"oF": 0
@@ -1494,6 +1577,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_image-rendering.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_image-rendering.scssc",
 		"oF": 0
@@ -1501,6 +1585,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_keyframes.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_keyframes.scssc",
 		"oF": 0
@@ -1508,6 +1593,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_linear-gradient.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_linear-gradient.scssc",
 		"oF": 0
@@ -1515,6 +1601,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_perspective.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_perspective.scssc",
 		"oF": 0
@@ -1522,6 +1609,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_placeholder.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_placeholder.scssc",
 		"oF": 0
@@ -1529,6 +1617,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_radial-gradient.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_radial-gradient.scssc",
 		"oF": 0
@@ -1536,6 +1625,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_selection.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_selection.scssc",
 		"oF": 0
@@ -1543,6 +1633,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_text-decoration.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_text-decoration.scssc",
 		"oF": 0
@@ -1550,6 +1641,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_transform.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_transform.scssc",
 		"oF": 0
@@ -1557,6 +1649,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_transition.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_transition.scssc",
 		"oF": 0
@@ -1564,6 +1657,7 @@
 	"/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_user-select.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/1bc39e2d058210c24bbf01283df5646f2b43c8bc/_user-select.scssc",
 		"oF": 0
@@ -1571,6 +1665,7 @@
 	"/style/sass/.sass-cache/4dda707854bab7e814cdf471dea5d37438ab07d6/_main.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/4dda707854bab7e814cdf471dea5d37438ab07d6/_main.sassc",
 		"oF": 0
@@ -1578,6 +1673,7 @@
 	"/style/sass/.sass-cache/553beacca3b85d0b72457c536adadd8bdfde3b1e/_main.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/553beacca3b85d0b72457c536adadd8bdfde3b1e/_main.sassc",
 		"oF": 0
@@ -1585,6 +1681,7 @@
 	"/style/sass/.sass-cache/6ab4a21655f17887760b88b11a9a689085176534/_bourbon-deprecated-upcoming.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/6ab4a21655f17887760b88b11a9a689085176534/_bourbon-deprecated-upcoming.scssc",
 		"oF": 0
@@ -1592,6 +1689,7 @@
 	"/style/sass/.sass-cache/6ab4a21655f17887760b88b11a9a689085176534/_bourbon.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/6ab4a21655f17887760b88b11a9a689085176534/_bourbon.scssc",
 		"oF": 0
@@ -1599,6 +1697,7 @@
 	"/style/sass/.sass-cache/98865a2fa5c298bef28bf70488504d73f26a8c00/footer.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/style/sass/.sass-cache/98865a2fa5c298bef28bf70488504d73f26a8c00/footer.sassc",
 		"oF": 0
@@ -1606,6 +1705,7 @@
 	"/style/sass/.sass-cache/98865a2fa5c298bef28bf70488504d73f26a8c00/header.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/style/sass/.sass-cache/98865a2fa5c298bef28bf70488504d73f26a8c00/header.sassc",
 		"oF": 0
@@ -1613,6 +1713,7 @@
 	"/style/sass/.sass-cache/98865a2fa5c298bef28bf70488504d73f26a8c00/normalize.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/style/sass/.sass-cache/98865a2fa5c298bef28bf70488504d73f26a8c00/normalize.sassc",
 		"oF": 0
@@ -1620,6 +1721,7 @@
 	"/style/sass/.sass-cache/98865a2fa5c298bef28bf70488504d73f26a8c00/style.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/style/sass/.sass-cache/98865a2fa5c298bef28bf70488504d73f26a8c00/style.sassc",
 		"oF": 0
@@ -1627,6 +1729,7 @@
 	"/style/sass/.sass-cache/98865a2fa5c298bef28bf70488504d73f26a8c00/under_construction.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/style/sass/.sass-cache/98865a2fa5c298bef28bf70488504d73f26a8c00/under_construction.sassc",
 		"oF": 0
@@ -1634,6 +1737,7 @@
 	"/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_assign-inputs.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_assign-inputs.scssc",
 		"oF": 0
@@ -1641,6 +1745,7 @@
 	"/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_contains-falsy.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_contains-falsy.scssc",
 		"oF": 0
@@ -1648,6 +1753,7 @@
 	"/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_contains.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_contains.scssc",
 		"oF": 0
@@ -1655,6 +1761,7 @@
 	"/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_is-length.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_is-length.scssc",
 		"oF": 0
@@ -1662,6 +1769,7 @@
 	"/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_is-light.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_is-light.scssc",
 		"oF": 0
@@ -1669,6 +1777,7 @@
 	"/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_is-number.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_is-number.scssc",
 		"oF": 0
@@ -1676,6 +1785,7 @@
 	"/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_is-size.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_is-size.scssc",
 		"oF": 0
@@ -1683,6 +1793,7 @@
 	"/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_modular-scale.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_modular-scale.scssc",
 		"oF": 0
@@ -1690,6 +1801,7 @@
 	"/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_px-to-em.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_px-to-em.scssc",
 		"oF": 0
@@ -1697,6 +1809,7 @@
 	"/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_px-to-rem.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_px-to-rem.scssc",
 		"oF": 0
@@ -1704,6 +1817,7 @@
 	"/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_shade.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_shade.scssc",
 		"oF": 0
@@ -1711,6 +1825,7 @@
 	"/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_strip-units.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_strip-units.scssc",
 		"oF": 0
@@ -1718,6 +1833,7 @@
 	"/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_tint.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_tint.scssc",
 		"oF": 0
@@ -1725,6 +1841,7 @@
 	"/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_transition-property-name.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_transition-property-name.scssc",
 		"oF": 0
@@ -1732,6 +1849,7 @@
 	"/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_unpack.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/9b831de8c2d66e2c1ccfb6e31ea55578d3230d60/_unpack.scssc",
 		"oF": 0
@@ -1739,6 +1857,7 @@
 	"/style/sass/.sass-cache/9f85572cf56067c2449e4efe66d2c089e1d181ae/_main.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/9f85572cf56067c2449e4efe66d2c089e1d181ae/_main.sassc",
 		"oF": 0
@@ -1746,6 +1865,7 @@
 	"/style/sass/.sass-cache/a47c9e341fb223fa9f32a84d919ef053eba24a69/_blogPostStyle.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/a47c9e341fb223fa9f32a84d919ef053eba24a69/_blogPostStyle.sassc",
 		"oF": 0
@@ -1753,6 +1873,7 @@
 	"/style/sass/.sass-cache/a47c9e341fb223fa9f32a84d919ef053eba24a69/_main.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/a47c9e341fb223fa9f32a84d919ef053eba24a69/_main.sassc",
 		"oF": 0
@@ -1760,6 +1881,7 @@
 	"/style/sass/.sass-cache/b123dc2daf081bb656102672f4e0b7c7a0296d26/_main.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/b123dc2daf081bb656102672f4e0b7c7a0296d26/_main.sassc",
 		"oF": 0
@@ -1767,6 +1889,7 @@
 	"/style/sass/.sass-cache/ba5fb42ae269a42082b9da0d09474f804ec98d03/_main.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/ba5fb42ae269a42082b9da0d09474f804ec98d03/_main.sassc",
 		"oF": 0
@@ -1774,6 +1897,7 @@
 	"/style/sass/.sass-cache/c2efa80fedaf30f6770af0ab6e71b125844cab14/_main.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/c2efa80fedaf30f6770af0ab6e71b125844cab14/_main.sassc",
 		"oF": 0
@@ -1781,6 +1905,7 @@
 	"/style/sass/.sass-cache/ca316097dea08a52299aea5515bd8524f0ac234f/_asset-pipeline.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/ca316097dea08a52299aea5515bd8524f0ac234f/_asset-pipeline.scssc",
 		"oF": 0
@@ -1788,6 +1913,7 @@
 	"/style/sass/.sass-cache/ca316097dea08a52299aea5515bd8524f0ac234f/_prefixer.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/ca316097dea08a52299aea5515bd8524f0ac234f/_prefixer.scssc",
 		"oF": 0
@@ -1795,6 +1921,7 @@
 	"/style/sass/.sass-cache/ca316097dea08a52299aea5515bd8524f0ac234f/_px-to-em.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/ca316097dea08a52299aea5515bd8524f0ac234f/_px-to-em.scssc",
 		"oF": 0
@@ -1802,6 +1929,7 @@
 	"/style/sass/.sass-cache/df83d14156105c9205e28f94af6491564d8fb42c/_main.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/df83d14156105c9205e28f94af6491564d8fb42c/_main.sassc",
 		"oF": 0
@@ -1809,6 +1937,7 @@
 	"/style/sass/.sass-cache/df95f9ee151982c9234b774ea1512b03d0d1be66/footer.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/style/sass/.sass-cache/df95f9ee151982c9234b774ea1512b03d0d1be66/footer.sassc",
 		"oF": 0
@@ -1816,6 +1945,7 @@
 	"/style/sass/.sass-cache/df95f9ee151982c9234b774ea1512b03d0d1be66/header.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/style/sass/.sass-cache/df95f9ee151982c9234b774ea1512b03d0d1be66/header.sassc",
 		"oF": 0
@@ -1823,6 +1953,7 @@
 	"/style/sass/.sass-cache/df95f9ee151982c9234b774ea1512b03d0d1be66/normalize.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/style/sass/.sass-cache/df95f9ee151982c9234b774ea1512b03d0d1be66/normalize.sassc",
 		"oF": 0
@@ -1830,6 +1961,7 @@
 	"/style/sass/.sass-cache/df95f9ee151982c9234b774ea1512b03d0d1be66/style.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/style/sass/.sass-cache/df95f9ee151982c9234b774ea1512b03d0d1be66/style.sassc",
 		"oF": 0
@@ -1837,6 +1969,7 @@
 	"/style/sass/.sass-cache/df95f9ee151982c9234b774ea1512b03d0d1be66/under_construction.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/style/sass/.sass-cache/df95f9ee151982c9234b774ea1512b03d0d1be66/under_construction.sassc",
 		"oF": 0
@@ -1844,6 +1977,7 @@
 	"/style/sass/.sass-cache/f154ac9959c5125f51217043b99175779ec99273/_blogPostStyle.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f154ac9959c5125f51217043b99175779ec99273/_blogPostStyle.sassc",
 		"oF": 0
@@ -1851,6 +1985,7 @@
 	"/style/sass/.sass-cache/f154ac9959c5125f51217043b99175779ec99273/_main.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f154ac9959c5125f51217043b99175779ec99273/_main.sassc",
 		"oF": 0
@@ -1858,6 +1993,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_border-color.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_border-color.scssc",
 		"oF": 0
@@ -1865,6 +2001,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_border-radius.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_border-radius.scssc",
 		"oF": 0
@@ -1872,6 +2009,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_border-style.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_border-style.scssc",
 		"oF": 0
@@ -1879,6 +2017,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_border-width.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_border-width.scssc",
 		"oF": 0
@@ -1886,6 +2025,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_buttons.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_buttons.scssc",
 		"oF": 0
@@ -1893,6 +2033,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_clearfix.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_clearfix.scssc",
 		"oF": 0
@@ -1900,6 +2041,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_ellipsis.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_ellipsis.scssc",
 		"oF": 0
@@ -1907,6 +2049,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_font-stacks.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_font-stacks.scssc",
 		"oF": 0
@@ -1914,6 +2057,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_hide-text.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_hide-text.scssc",
 		"oF": 0
@@ -1921,6 +2065,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_margin.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_margin.scssc",
 		"oF": 0
@@ -1928,6 +2073,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_padding.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_padding.scssc",
 		"oF": 0
@@ -1935,6 +2081,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_position.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_position.scssc",
 		"oF": 0
@@ -1942,6 +2089,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_prefixer.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_prefixer.scssc",
 		"oF": 0
@@ -1949,6 +2097,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_retina-image.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_retina-image.scssc",
 		"oF": 0
@@ -1956,6 +2105,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_size.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_size.scssc",
 		"oF": 0
@@ -1963,6 +2113,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_text-inputs.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_text-inputs.scssc",
 		"oF": 0
@@ -1970,6 +2121,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_timing-functions.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_timing-functions.scssc",
 		"oF": 0
@@ -1977,6 +2129,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_triangle.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_triangle.scssc",
 		"oF": 0
@@ -1984,6 +2137,7 @@
 	"/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_word-wrap.scssc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f41e3cb285c79b49e3eee8e3512f0142646da71b/_word-wrap.scssc",
 		"oF": 0
@@ -1991,6 +2145,7 @@
 	"/style/sass/.sass-cache/f86b6e3befc9ef3c29eda9dc5ff9fb5774fc29f4/_main.sassc": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/.sass-cache/f86b6e3befc9ef3c29eda9dc5ff9fb5774fc29f4/_main.sassc",
 		"oF": 0
@@ -2141,21 +2296,13 @@
 	"/underConstruction.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/underConstruction.html",
 		"oF": 0
 		}
 	},
 "hooks": [
-	{
-		"enabled": 1,
-		"name": "Hook #2",
-		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFgcIDxQcJicqMTU6Oz5CRktMT1VZXV9VJG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0ZXNWJGNsYXNzEAKAAoAV0hALERNaTlMub2JqZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmlnaHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KAE4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5OtIfCygpEAGAB9IrLC0uWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1NlbGZFeHByZXNzaW9uoy0vMFxOU0V4cHJlc3Npb25YTlNPYmplY3TSEAsyNKEzgAmADNMLHzY3ODlZTlNLZXlQYXRogAsQCoAKXWlucHV0RnVsbFBhdGjSKyw8PV8QHE5TS2V5UGF0aFNwZWNpZmllckV4cHJlc3Npb26jPC8w0issP0BeTlNNdXRhYmxlQXJyYXmjP0EwV05TQXJyYXnSKyxDRF8QE05TS2V5UGF0aEV4cHJlc3Npb26kQ0UvMF8QFE5TRnVuY3Rpb25FeHByZXNzaW9u00cfC0hJSl8QD05TQ29uc3RhbnRWYWx1ZYAPEACAEF8QFGhhcm9sZGY0MTUuZ2l0aHViLmlv0issTU5fEBlOU0NvbnN0YW50VmFsdWVFeHByZXNzaW9uo00vMNQLUFFSU0koVFpOU01vZGlmaWVyV05TRmxhZ3NeTlNPcGVyYXRvclR5cGWAEhBj0issVldfEBVOU0luUHJlZGljYXRlT3BlcmF0b3KjVlgwXxATTlNQcmVkaWNhdGVPcGVyYXRvctIrLFpbXxAVTlNDb21wYXJpc29uUHJlZGljYXRlo1pcMFtOU1ByZWRpY2F0ZdIrLEFeokEw0issYGFfEBNOU0NvbXBvdW5kUHJlZGljYXRlo2BcMF8QD05TS2V5ZWRBcmNoaXZlctFkZVRyb290gAEACAARABoAIwAtADIANwBQAFYAXQB3AIkAkACSAJQAlgCbAKYAqACqAKwAtQDJANwA8gD0APYA+AD6AQUBDwEeATEBPQE/AUEBQwFFAUcBVAFZAVsBXQFiAW0BdgGJAY0BmgGjAagBqgGsAa4BtQG/AcEBwwHFAdMB2AH3AfsCAAIPAhMCGwIgAjYCOwJSAlkCawJtAm8CcQKIAo0CqQKtArYCwQLJAtgC2gLcAuEC+QL9AxMDGAMwAzQDQANFA0gDTQNjA2cDeQN8A4EAAAAAAAACAQAAAAAAAABmAAAAAAAAAAAAAAAAAAADgw==",
-		"runOrder": 1,
-		"scriptSourceString": "",
-		"scriptType": 1,
-		"uuidString": "EA1875E3-E505-470A-BBD5-DB8E32FA54A0"
-		},
 	{
 		"enabled": 0,
 		"name": "Hook #1",
@@ -2164,6 +2311,15 @@
 		"scriptSourceString": "",
 		"scriptType": 1,
 		"uuidString": "DADE2CBE-C8DE-4FB1-BF79-1FD17B940B96"
+		},
+	{
+		"enabled": 1,
+		"name": "Hook #2",
+		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFgcIDxQcJicqMTU6Oz5CRktMT1VZXV9VJG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0ZXNWJGNsYXNzEAKAAoAV0hALERNaTlMub2JqZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmlnaHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KAE4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5OtIfCygpEAGAB9IrLC0uWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1NlbGZFeHByZXNzaW9uoy0vMFxOU0V4cHJlc3Npb25YTlNPYmplY3TSEAsyNKEzgAmADNMLHzY3ODlZTlNLZXlQYXRogAsQCoAKXWlucHV0RnVsbFBhdGjSKyw8PV8QHE5TS2V5UGF0aFNwZWNpZmllckV4cHJlc3Npb26jPC8w0issP0BeTlNNdXRhYmxlQXJyYXmjP0EwV05TQXJyYXnSKyxDRF8QE05TS2V5UGF0aEV4cHJlc3Npb26kQ0UvMF8QFE5TRnVuY3Rpb25FeHByZXNzaW9u00cfC0hJSl8QD05TQ29uc3RhbnRWYWx1ZYAPEACAEF8QFGhhcm9sZGY0MTUuZ2l0aHViLmlv0issTU5fEBlOU0NvbnN0YW50VmFsdWVFeHByZXNzaW9uo00vMNQLUFFSU0koVFpOU01vZGlmaWVyV05TRmxhZ3NeTlNPcGVyYXRvclR5cGWAEhBj0issVldfEBVOU0luUHJlZGljYXRlT3BlcmF0b3KjVlgwXxATTlNQcmVkaWNhdGVPcGVyYXRvctIrLFpbXxAVTlNDb21wYXJpc29uUHJlZGljYXRlo1pcMFtOU1ByZWRpY2F0ZdIrLEFeokEw0issYGFfEBNOU0NvbXBvdW5kUHJlZGljYXRlo2BcMF8QD05TS2V5ZWRBcmNoaXZlctFkZVRyb290gAEACAARABoAIwAtADIANwBQAFYAXQB3AIkAkACSAJQAlgCbAKYAqACqAKwAtQDJANwA8gD0APYA+AD6AQUBDwEeATEBPQE/AUEBQwFFAUcBVAFZAVsBXQFiAW0BdgGJAY0BmgGjAagBqgGsAa4BtQG/AcEBwwHFAdMB2AH3AfsCAAIPAhMCGwIgAjYCOwJSAlkCawJtAm8CcQKIAo0CqQKtArYCwQLJAtgC2gLcAuEC+QL9AxMDGAMwAzQDQANFA0gDTQNjA2cDeQN8A4EAAAAAAAACAQAAAAAAAABmAAAAAAAAAAAAAAAAAAADgw==",
+		"runOrder": 1,
+		"scriptSourceString": "",
+		"scriptType": 1,
+		"uuidString": "EA1875E3-E505-470A-BBD5-DB8E32FA54A0"
 		}
 	],
 "manualImportLinks": {
@@ -2178,6 +2334,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
+	"allowInjectionReloads": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
@@ -2189,6 +2346,7 @@
 	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
+	"babelExcludeString": "/\\/node_modules\\//, /\\/core-js\\//, /\\/bower_components\\//",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
@@ -2259,6 +2417,12 @@
 		"function-sent": {
 			"active": 0
 			},
+		"inline-consecutive-adds": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
 		"instanceof": {
 			"active": 0
 			},
@@ -2280,6 +2444,36 @@
 		"minify-booleans": {
 			"active": 0
 			},
+		"minify-builtins": {
+			"active": 0
+			},
+		"minify-constant-folding": {
+			"active": 0
+			},
+		"minify-dead-code-elimination": {
+			"active": 0
+			},
+		"minify-flip-comparisons": {
+			"active": 0
+			},
+		"minify-guarded-expressions": {
+			"active": 0
+			},
+		"minify-infinity": {
+			"active": 0
+			},
+		"minify-mangle-names": {
+			"active": 0
+			},
+		"minify-numeric-literals": {
+			"active": 0
+			},
+		"minify-simplify": {
+			"active": 0
+			},
+		"minify-type-constructors": {
+			"active": 0
+			},
 		"modules-amd": {
 			"active": 0
 			},
@@ -2290,6 +2484,9 @@
 			"active": 0
 			},
 		"modules-umd": {
+			"active": 0
+			},
+		"named-capturing-groups-regex": {
 			"active": 0
 			},
 		"new-target": {
@@ -2325,7 +2522,13 @@
 		"parameters": {
 			"active": 0
 			},
+		"partial-application": {
+			"active": 0
+			},
 		"pipeline-operator": {
+			"active": 0
+			},
+		"private-methods": {
 			"active": 0
 			},
 		"property-literals": {
@@ -2361,10 +2564,16 @@
 		"regenerator": {
 			"active": 0
 			},
+		"regexp-constructors": {
+			"active": 0
+			},
 		"remove-console": {
 			"active": 0
 			},
 		"remove-debugger": {
+			"active": 0
+			},
+		"remove-undefined": {
 			"active": 0
 			},
 		"reserved-words": {
@@ -2408,11 +2617,10 @@
 			}
 		},
 	"babelRetainLines": 0,
+	"babelUseBuiltInsType": 0,
 	"bowerAbbreviatedPath": "bower_components",
-	"bowerAutoCreateInfoFile": 1,
-	"bowerInstallDevDependencies": 0,
-	"bowerSaveDependencies": 1,
-	"bowerSaveDevDependencies": 0,
+	"bowerForceLatestOnConflict": 1,
+	"bowerTargetDependencyListType": 1,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
@@ -3313,6 +3521,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-useless-catch": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-useless-computed-key": {
 			"active": 1,
 			"optionString": ""
@@ -3412,6 +3624,10 @@
 		"prefer-destructuring": {
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
+		"prefer-named-capture-group": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-numeric-literals": {
 			"active": 0,
@@ -3975,6 +4191,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -3996,6 +4213,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"bundleFormat": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
@@ -4018,7 +4236,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -4057,6 +4276,7 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -4066,7 +4286,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -4087,7 +4308,8 @@
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
 		"outputStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -4116,7 +4338,8 @@
 		"outputFormat": 0,
 		"outputStyle": 1,
 		"railsCompatible": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -4159,6 +4382,11 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"npmAbbreviatedPath": "",
+	"npmCreatePackageLock": 1,
+	"npmInstallOptionalDependencies": 0,
+	"npmSaveExactVersion": 0,
+	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, /storage/framework/sessions, node_modules",
@@ -4204,16 +4432,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"ascii_only": {
-			"active": 0,
+		"arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
-		"bare_returns": {
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
 		"booleans": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"booleans_as_integers": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"braces": {
@@ -4225,14 +4457,14 @@
 			"flagValue": -1
 			},
 		"comments": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"comparisons": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"compress": {
+		"computed_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -4255,6 +4487,10 @@
 		"drop_debugger": {
 			"active": 1,
 			"flagValue": -1
+			},
+		"ecma": {
+			"active": 1,
+			"flagValue": 5
 			},
 		"eval": {
 			"active": 0,
@@ -4280,10 +4516,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"html5_comments": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"ie8": {
 			"active": 0,
 			"flagValue": -1
@@ -4292,13 +4524,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-start": {
-			"active": 0,
-			"flagValue": 0
-			},
 		"indent_level": {
 			"active": 0,
 			"flagValue": 4
+			},
+		"indent_start": {
+			"active": 0,
+			"flagValue": 0
 			},
 		"inline": {
 			"active": 1,
@@ -4310,6 +4542,10 @@
 			},
 		"join_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"keep_classnames": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"keep_fargs": {
@@ -4332,13 +4568,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"mangle": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
+			},
+		"module": {
+			"active": 0,
+			"flagValue": -1
 			},
 		"negate_iife": {
 			"active": 1,
@@ -4347,10 +4583,6 @@
 		"passes": {
 			"active": 1,
 			"flagValue": 1
-			},
-		"preserve_line": {
-			"active": 0,
-			"flagValue": -1
 			},
 		"properties": {
 			"active": 1,
@@ -4374,6 +4606,10 @@
 			},
 		"reduce_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"safari10": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -4408,6 +4644,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"unsafe_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"unsafe_comps": {
 			"active": 0,
 			"flagValue": -1
@@ -4417,6 +4657,10 @@
 			"flagValue": -1
 			},
 		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_methods": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -4444,15 +4688,12 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"width": {
-			"active": 1,
-			"flagValue": 80
-			},
 		"wrap_iife": {
 			"active": 0,
 			"flagValue": -1
 			}
 		},
+	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$",
 	"websiteRelativeRoot": "/build"
 	},
