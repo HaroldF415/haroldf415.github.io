@@ -41,6 +41,14 @@
 		"oAP": "/build/.idea/encodings.xml",
 		"oF": 0
 		},
+	"/.idea/fileTemplates/blogEntry.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/.idea/fileTemplates/blogEntry.html",
+		"oF": 0
+		},
 	"/.idea/haroldf415.github.io.iml": {
 		"cB": 0,
 		"ft": 8192,
@@ -279,6 +287,22 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/blog/2019/08/11/research-hosting-site-rework-personal-website.html",
+		"oF": 0
+		},
+	"/blog/2019/08/12/writing-code-on-the-road.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/blog/2019/08/12/writing-code-on-the-road.html",
+		"oF": 0
+		},
+	"/blog/2019/08/15/been-busy-working-for-uber.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/blog/2019/08/15/been-busy-working-for-uber.html",
 		"oF": 0
 		},
 	"/build": {
@@ -1300,6 +1324,17 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"/libs/prism.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "/build/libs/prism.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 0
+		},
 	"/manifest.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -1339,6 +1374,16 @@
 		"oAP": "/build/style/css/_normalize-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"/style/css/prism.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/build/style/css/prism-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/style/css/style.css": {
 		"aP": 0,
