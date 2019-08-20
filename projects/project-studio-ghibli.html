@@ -1,10 +1,133 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+    <head>
+        <meta charset="utf-8">
+        <meta author="Harold A. Fachin">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Projects - Studio Ghibli: Present User with detail information about Studio Ghibli Flims.">
+    
+        <meta property="og:url" content="http://haroldf415.github.io/projects/project-studio-ghibli.html">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="PROJECT- Studio Ghibli">
+        <meta property="og:description" content="PROJECTS | Studio Ghibli - Presenting the user with detailed information about Studio Ghibli Films.">
+        <meta property="og:image" content="http://haroldf415.github.io/img/projects/studio-ghibli/studio-ghibli.png">
+    
+        <title>PROJECTS | Studio Ghibli - Present user with detailed information about Studio Ghibli Films.</title>
+    
+        <link rel="icon" href="../img/favicon/pageFave.ico">
+        <!--[if IE]><link rel="shortcut icon" href="../img/favicon/pageFave.ico"><![endif]-->
+    
+        <link rel="stylesheet" type="text/css" href="../style/css/style.css">
+    
+        <link href='https://fonts.googleapis.com/css?family=Slabo+27px' rel='stylesheet' type='text/css'>
+    
+        <script type="text/javascript" src="../libs/jQuery/jquery-3.4.1.min.js"></script>
+        <script type="text/javascript" src="../libs/ghibli.js"></script>
+    
+        <script type="text/javascript">
+    
+            var imageURLs = [
+                "../img/gishwhes/block_2012.png",
+                "../img/gishwhes/block_2013.png",
+                "../img/gishwhes/block_2014.png",
+                "../img/gishwhes/block_2015.png"
+            ];
+    
+            var bannerURLs = [
+                "../img/gishwhes/banner_2012.png",
+                "../img/gishwhes/banner_2013.png",
+                "../img/gishwhes/banner_2014.png",
+                "../img/gishwhes/banner_2015.png"
+            ];
+    
+            function getBlockTag(){
+                var block = '<img src=\"';
+                var banner = '<img src=\"';
+                var randomIndex = Math.floor(Math.random() * imageURLs.length);
+    
+                block += imageURLs[randomIndex];
+                banner += bannerURLs[randomIndex];
+                block += '\" alt=\"Some alt text\"/>';
+                banner += '\" alt=\"Some alt text\"/>';
+    
+                return [ block, banner];
+            };
+    
+            function getBannerTag(){
+                var img = '<img src=\"';
+                var randomIndex = Math.floor(Math.random() * bannerURLs.length);
+                img += bannerURLs[randomIndex];
+                img += '\" alt=\"Some alt text\"/>';
+                return img;
+            };
+    
+        </script>
+    
+    </head>
+    
+    <body id="studio_ghibli_body">
+    
+        <!-- Browser-Update.org -->
+        <script>
+            var $buoop = {c:2};
+            function $buo_f(){
+                var e = document.createElement("script");
+                e.src = "//browser-update.org/update.min.js";
+                document.body.appendChild(e);
+            };
+            try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
+            catch(e){window.attachEvent("onload", $buo_f)}
+        </script>
+        <!-- End Browser-Update.org -->
+        
+        <!-- Google Analytics -->
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        
+            ga('create', 'UA-72856160-1', 'auto');
+            ga('send', 'pageview');
+        
+        </script>
+        <!-- End Google Analytics -->
+        
+        <h1 class="sr_only">Studio Ghibli</h1>
+        
+        <header id="studio_ghibli_header" class="main_headers">
+            <nav id="gishwhes_nav">
+                <h1 class="sr_only">Navigation</h1>
+                <a href="../index.html" id="blog_home_a" class="menu">HOME</a>
+                <a href="../blog.html" id="blog_menu_a"class="menu">BLOG</a>
+                <a href="../cv.html" id="blog_cv_a"class="menu">CV</a>
+            </nav>
+        </header>
+        
+        <main id="studio_ghibli_main" class="project_entry">
+        
+            <section id="studio_ghibli_info">
+                <article>
+                    <section>
+                        <h1 class="project_title">PROJECT DESCRIPTION</h1>
+                        <p>
+                            The main purpose of this project is to present the user with detailed information about Studio Ghibli Films. Making use of Public APIs.
+                        </p>
+                    </section>
+                </article>
+            </section>
+            
+            <div class="film_info_container">
+            </div>
+        
+        </main>
 
-</body>
+        <!-- STARTS | footer -->
+        <footer>
+            <p>&#169;2019 - Harold A. Fachin</p>
+        </footer>
+        <!-- ENDS | footer -->
+    
+    </body>
+
 </html>
