@@ -305,6 +305,14 @@
 		"oAP": "/build/blog/2019/08/15/been-busy-working-for-uber.html",
 		"oF": 0
 		},
+	"/blog/2019/08/20/learning-by-watching-youtube.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/blog/2019/08/20/learning-by-watching-youtube.html",
+		"oF": 0
+		},
 	"/build": {
 		"ft": 65536,
 		"oA": 1,
@@ -723,6 +731,17 @@
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
+		"q": 100
+		},
+	"/img/index_main.jpg": {
+		"ft": 16384,
+		"iS": 7810,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/index_main.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/index_main.png": {
