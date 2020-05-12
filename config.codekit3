@@ -7,7 +7,7 @@
 		"uuidString": "BB55F915-2954-4BED-88D6-92B3B7F976EA"
 		}
 	],
-"creatorBuild": "31491",
+"creatorBuild": "32147",
 "files": {
 	"/.gitignore": {
 		"cB": 0,
@@ -311,6 +311,22 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/build/blog/2019/08/20/learning-by-watching-youtube.html",
+		"oF": 0
+		},
+	"/blog/2019/08/21/project-studio-ghibli.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/blog/2019/08/21/project-studio-ghibli.html",
+		"oF": 0
+		},
+	"/blog/2020/05/12/returning-to-programming-once-again.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/blog/2020/05/12/returning-to-programming-once-again.html",
 		"oF": 0
 		},
 	"/build": {
@@ -2237,157 +2253,157 @@
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/css/_blogPostStyle.css",
 		"oF": 0,
 		"oS": 3,
-		"uL": 1
+		"sct": 1
 		},
 	"/style/sass/blog/_main.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/css/_main.css",
 		"oF": 0,
 		"oS": 3,
-		"uL": 1
+		"sct": 1
 		},
 	"/style/sass/cv/_main.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/css/_main.css",
 		"oF": 0,
 		"oS": 3,
-		"uL": 1
+		"sct": 1
 		},
 	"/style/sass/footer.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/style/css/footer.css",
 		"oF": 0,
 		"oS": 3,
-		"uL": 1
+		"sct": 1
 		},
 	"/style/sass/header.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/style/css/header.css",
 		"oF": 0,
 		"oS": 3,
-		"uL": 1
+		"sct": 1
 		},
 	"/style/sass/index/_main.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/css/_main.css",
 		"oF": 0,
 		"oS": 3,
-		"uL": 1
+		"sct": 1
 		},
 	"/style/sass/normalize.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/style/css/normalize.css",
 		"oF": 0,
 		"oS": 3,
-		"uL": 1
+		"sct": 1
 		},
 	"/style/sass/projects/gishwhes.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/css/gishwhes.css",
 		"oF": 0,
 		"oS": 3,
-		"uL": 1
+		"sct": 1
 		},
 	"/style/sass/projects/parallax.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/build/style/sass/css/parallax.css",
 		"oF": 0,
 		"oS": 3,
-		"uL": 1
+		"sct": 1
 		},
 	"/style/sass/projects/studio-ghibli.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/css/studio-ghibli.css",
 		"oF": 0,
 		"oS": 3,
-		"uL": 1
+		"sct": 1
 		},
 	"/style/sass/projects/under_construction.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/build/style/sass/css/under_construction.css",
 		"oF": 0,
 		"oS": 3,
-		"uL": 1
+		"sct": 1
 		},
 	"/style/sass/style.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/style/css/style.css",
 		"oF": 1,
 		"oS": 3,
-		"uL": 1
+		"sct": 1
 		},
 	"/underConstruction.html": {
 		"cB": 0,
@@ -2402,7 +2418,7 @@
 	{
 		"enabled": 1,
 		"name": "Hook #2",
-		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFgcIDxQcJicqMTU6Oz5CRktMT1VZXV9VJG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0ZXNWJGNsYXNzEAKAAoAV0hALERNaTlMub2JqZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmlnaHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KAE4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5OtIfCygpEAGAB9IrLC0uWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1NlbGZFeHByZXNzaW9uoy0vMFxOU0V4cHJlc3Npb25YTlNPYmplY3TSEAsyNKEzgAmADNMLHzY3ODlZTlNLZXlQYXRogAsQCoAKXWlucHV0RnVsbFBhdGjSKyw8PV8QHE5TS2V5UGF0aFNwZWNpZmllckV4cHJlc3Npb26jPC8w0issP0BeTlNNdXRhYmxlQXJyYXmjP0EwV05TQXJyYXnSKyxDRF8QE05TS2V5UGF0aEV4cHJlc3Npb26kQ0UvMF8QFE5TRnVuY3Rpb25FeHByZXNzaW9u00cfC0hJSl8QD05TQ29uc3RhbnRWYWx1ZYAPEACAEF8QFGhhcm9sZGY0MTUuZ2l0aHViLmlv0issTU5fEBlOU0NvbnN0YW50VmFsdWVFeHByZXNzaW9uo00vMNQLUFFSU0koVFpOU01vZGlmaWVyV05TRmxhZ3NeTlNPcGVyYXRvclR5cGWAEhBj0issVldfEBVOU0luUHJlZGljYXRlT3BlcmF0b3KjVlgwXxATTlNQcmVkaWNhdGVPcGVyYXRvctIrLFpbXxAVTlNDb21wYXJpc29uUHJlZGljYXRlo1pcMFtOU1ByZWRpY2F0ZdIrLEFeokEw0issYGFfEBNOU0NvbXBvdW5kUHJlZGljYXRlo2BcMF8QD05TS2V5ZWRBcmNoaXZlctFkZVRyb290gAEACAARABoAIwAtADIANwBQAFYAXQB3AIkAkACSAJQAlgCbAKYAqACqAKwAtQDJANwA8gD0APYA+AD6AQUBDwEeATEBPQE/AUEBQwFFAUcBVAFZAVsBXQFiAW0BdgGJAY0BmgGjAagBqgGsAa4BtQG/AcEBwwHFAdMB2AH3AfsCAAIPAhMCGwIgAjYCOwJSAlkCawJtAm8CcQKIAo0CqQKtArYCwQLJAtgC2gLcAuEC+QL9AxMDGAMwAzQDQANFA0gDTQNjA2cDeQN8A4EAAAAAAAACAQAAAAAAAABmAAAAAAAAAAAAAAAAAAADgw==",
+		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGvEBYLDBMYICorLjU5Pj9CRkpPUFNZXWFjVSRudWxs0w0ODxAREl8QF05TQ29tcG91bmRQcmVkaWNhdGVUeXBlXxAPTlNTdWJwcmVkaWNhdGVzViRjbGFzcxACgAKAFdIUDxUXWk5TLm9iamVjdHOhFoADgBTUDxkaGxwdHh9fEBFOU1JpZ2h0RXhwcmVzc2lvbl8QEE5TTGVmdEV4cHJlc3Npb25fEBNOU1ByZWRpY2F0ZU9wZXJhdG9ygBOADoAEgBHVISIjJA8lJicoKVlOU09wZXJhbmReTlNTZWxlY3Rvck5hbWVfEBBOU0V4cHJlc3Npb25UeXBlW05TQXJndW1lbnRzgAaABRADgAiADVx2YWx1ZUZvcktleTrSIw8sLRABgAfSLzAxMlokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNTZWxmRXhwcmVzc2lvbqMxMzRcTlNFeHByZXNzaW9uWE5TT2JqZWN00hQPNjihN4AJgAzTDyM6Ozw9WU5TS2V5UGF0aIALEAqACl1pbnB1dEZ1bGxQYXRo0i8wQEFfEBxOU0tleVBhdGhTcGVjaWZpZXJFeHByZXNzaW9uo0AzNNIvMENEXk5TTXV0YWJsZUFycmF5o0NFNFdOU0FycmF50i8wR0hfEBNOU0tleVBhdGhFeHByZXNzaW9upEdJMzRfEBROU0Z1bmN0aW9uRXhwcmVzc2lvbtNLIw9MTU5fEA9OU0NvbnN0YW50VmFsdWWADxAAgBBfEBRoYXJvbGRmNDE1LmdpdGh1Yi5pb9IvMFFSXxAZTlNDb25zdGFudFZhbHVlRXhwcmVzc2lvbqNRMzTUD1RVVldNLFhaTlNNb2RpZmllcldOU0ZsYWdzXk5TT3BlcmF0b3JUeXBlgBIQY9IvMFpbXxAVTlNJblByZWRpY2F0ZU9wZXJhdG9yo1pcNF8QE05TUHJlZGljYXRlT3BlcmF0b3LSLzBeX18QFU5TQ29tcGFyaXNvblByZWRpY2F0ZaNeYDRbTlNQcmVkaWNhdGXSLzBFYqJFNNIvMGRlXxATTlNDb21wb3VuZFByZWRpY2F0ZaNkYDQACAARABoAJAApADIANwBJAEwAUQBTAGwAcgB5AJMApQCsAK4AsACyALcAwgDEAMYAyADRAOUA+AEOARABEgEUARYBIQErAToBTQFZAVsBXQFfAWEBYwFwAXUBdwF5AX4BiQGSAaUBqQG2Ab8BxAHGAcgBygHRAdsB3QHfAeEB7wH0AhMCFwIcAisCLwI3AjwCUgJXAm4CdQKHAokCiwKNAqQCqQLFAskC0gLdAuUC9AL2AvgC/QMVAxkDLwM0A0wDUANcA2EDZANpA38AAAAAAAACAQAAAAAAAABmAAAAAAAAAAAAAAAAAAADgw==",
 		"runOrder": 1,
 		"scriptSourceString": "",
 		"scriptType": 1,
@@ -2411,7 +2427,7 @@
 	{
 		"enabled": 0,
 		"name": "Hook #1",
-		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFgcIDxQcJicqMTU6Oz5CRktMT1VZXV9VJG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0ZXNWJGNsYXNzEAKAAoAV0hALERNaTlMub2JqZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmlnaHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KAE4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5OtIfCygpEAGAB9IrLC0uWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1NlbGZFeHByZXNzaW9uoy0vMFxOU0V4cHJlc3Npb25YTlNPYmplY3TSEAsyNKEzgAmADNMLHzY3ODlZTlNLZXlQYXRogAsQCoAKXWlucHV0RnVsbFBhdGjSKyw8PV8QHE5TS2V5UGF0aFNwZWNpZmllckV4cHJlc3Npb26jPC8w0issP0BeTlNNdXRhYmxlQXJyYXmjP0EwV05TQXJyYXnSKyxDRF8QE05TS2V5UGF0aEV4cHJlc3Npb26kQ0UvMF8QFE5TRnVuY3Rpb25FeHByZXNzaW9u00cfC0hJSl8QD05TQ29uc3RhbnRWYWx1ZYAPEACAEF8QFGhhcm9sZGY0MTUuZ2l0aHViLmlv0issTU5fEBlOU0NvbnN0YW50VmFsdWVFeHByZXNzaW9uo00vMNQLUFFSU0koVFpOU01vZGlmaWVyV05TRmxhZ3NeTlNPcGVyYXRvclR5cGWAEhBj0issVldfEBVOU0luUHJlZGljYXRlT3BlcmF0b3KjVlgwXxATTlNQcmVkaWNhdGVPcGVyYXRvctIrLFpbXxAVTlNDb21wYXJpc29uUHJlZGljYXRlo1pcMFtOU1ByZWRpY2F0ZdIrLEFeokEw0issYGFfEBNOU0NvbXBvdW5kUHJlZGljYXRlo2BcMF8QD05TS2V5ZWRBcmNoaXZlctFkZVRyb290gAEACAARABoAIwAtADIANwBQAFYAXQB3AIkAkACSAJQAlgCbAKYAqACqAKwAtQDJANwA8gD0APYA+AD6AQUBDwEeATEBPQE/AUEBQwFFAUcBVAFZAVsBXQFiAW0BdgGJAY0BmgGjAagBqgGsAa4BtQG/AcEBwwHFAdMB2AH3AfsCAAIPAhMCGwIgAjYCOwJSAlkCawJtAm8CcQKIAo0CqQKtArYCwQLJAtgC2gLcAuEC+QL9AxMDGAMwAzQDQANFA0gDTQNjA2cDeQN8A4EAAAAAAAACAQAAAAAAAABmAAAAAAAAAAAAAAAAAAADgw==",
+		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGvEBYLDBMYICorLjU5Pj9CRkpPUFNZXWFjVSRudWxs0w0ODxAREl8QF05TQ29tcG91bmRQcmVkaWNhdGVUeXBlXxAPTlNTdWJwcmVkaWNhdGVzViRjbGFzcxACgAKAFdIUDxUXWk5TLm9iamVjdHOhFoADgBTUDxkaGxwdHh9fEBFOU1JpZ2h0RXhwcmVzc2lvbl8QEE5TTGVmdEV4cHJlc3Npb25fEBNOU1ByZWRpY2F0ZU9wZXJhdG9ygBOADoAEgBHVISIjJA8lJicoKVlOU09wZXJhbmReTlNTZWxlY3Rvck5hbWVfEBBOU0V4cHJlc3Npb25UeXBlW05TQXJndW1lbnRzgAaABRADgAiADVx2YWx1ZUZvcktleTrSIw8sLRABgAfSLzAxMlokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNTZWxmRXhwcmVzc2lvbqMxMzRcTlNFeHByZXNzaW9uWE5TT2JqZWN00hQPNjihN4AJgAzTDyM6Ozw9WU5TS2V5UGF0aIALEAqACl1pbnB1dEZ1bGxQYXRo0i8wQEFfEBxOU0tleVBhdGhTcGVjaWZpZXJFeHByZXNzaW9uo0AzNNIvMENEXk5TTXV0YWJsZUFycmF5o0NFNFdOU0FycmF50i8wR0hfEBNOU0tleVBhdGhFeHByZXNzaW9upEdJMzRfEBROU0Z1bmN0aW9uRXhwcmVzc2lvbtNLIw9MTU5fEA9OU0NvbnN0YW50VmFsdWWADxAAgBBfEBRoYXJvbGRmNDE1LmdpdGh1Yi5pb9IvMFFSXxAZTlNDb25zdGFudFZhbHVlRXhwcmVzc2lvbqNRMzTUD1RVVldNLFhaTlNNb2RpZmllcldOU0ZsYWdzXk5TT3BlcmF0b3JUeXBlgBIQY9IvMFpbXxAVTlNJblByZWRpY2F0ZU9wZXJhdG9yo1pcNF8QE05TUHJlZGljYXRlT3BlcmF0b3LSLzBeX18QFU5TQ29tcGFyaXNvblByZWRpY2F0ZaNeYDRbTlNQcmVkaWNhdGXSLzBFYqJFNNIvMGRlXxATTlNDb21wb3VuZFByZWRpY2F0ZaNkYDQACAARABoAJAApADIANwBJAEwAUQBTAGwAcgB5AJMApQCsAK4AsACyALcAwgDEAMYAyADRAOUA+AEOARABEgEUARYBIQErAToBTQFZAVsBXQFfAWEBYwFwAXUBdwF5AX4BiQGSAaUBqQG2Ab8BxAHGAcgBygHRAdsB3QHfAeEB7wH0AhMCFwIcAisCLwI3AjwCUgJXAm4CdQKHAokCiwKNAqQCqQLFAskC0gLdAuUC9AL2AvgC/QMVAxkDLwM0A0wDUANcA2EDZANpA38AAAAAAAACAQAAAAAAAABmAAAAAAAAAAAAAAAAAAADgw==",
 		"runOrder": 0,
 		"scriptSourceString": "",
 		"scriptType": 1,
@@ -2426,7 +2442,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-owl",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 588030158.87563801
+	"lastBuiltDate": 610973818.25121605
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2861,6 +2877,7 @@
 			"flagValue": -1
 			}
 		},
+	"environmentVariablesString": "NODE_ENV:::production",
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
 	"esLintEnvironmentsMask": 1,
@@ -2965,6 +2982,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"default-param-last": {
+			"active": 0,
+			"optionString": ""
+			},
 		"dot-location": {
 			"active": 0,
 			"optionString": "'object'"
@@ -3016,6 +3037,10 @@
 		"global-require": {
 			"active": 0,
 			"optionString": ""
+			},
+		"grouped-accessor-pairs": {
+			"active": 0,
+			"optionString": "'anyOrder'"
 			},
 		"guard-for-in": {
 			"active": 0,
@@ -3193,6 +3218,10 @@
 			"active": 1,
 			"optionString": "{'checkLoops': true}"
 			},
+		"no-constructor-return": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-continue": {
 			"active": 0,
 			"optionString": ""
@@ -3218,6 +3247,10 @@
 			"optionString": ""
 			},
 		"no-dupe-class-members": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-else-if": {
 			"active": 1,
 			"optionString": ""
 			},
@@ -3311,6 +3344,10 @@
 			},
 		"no-implied-eval": {
 			"active": 0,
+			"optionString": ""
+			},
+		"no-import-assign": {
+			"active": 1,
 			"optionString": ""
 			},
 		"no-inline-comments": {
@@ -3517,6 +3554,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-setter-return": {
+			"active": 1,
+			"optionString": ""
+			},
 		"no-shadow": {
 			"active": 0,
 			"optionString": "{'builtinGlobals': false, 'hoist': 'functions', 'allow': []}"
@@ -3721,6 +3762,10 @@
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
+		"prefer-exponentiation-operator": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-named-capture-group": {
 			"active": 0,
 			"optionString": ""
@@ -3736,6 +3781,10 @@
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-regex-literals": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -4345,7 +4394,6 @@
 		"autoOutputPathStyle": 2,
 		"createSourceMap": 0,
 		"enableJavascript": 0,
-		"ieCompatibility": 1,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
@@ -4414,13 +4462,13 @@
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 2,
+		"compilerType": 1,
 		"createSourceMap": 0,
-		"debugStyle": 0,
 		"decimalPrecision": 10,
+		"emitCharset": 1,
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 1
+		"shouldRunBless": 0
 		},
 	"languageDefaultsSLIM": {
 		"autoOutputAction": 0,
@@ -4485,6 +4533,9 @@
 	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
+	"rollupExternals": "",
+	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
+	"rollupTreeshakingEnabled": 1,
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
