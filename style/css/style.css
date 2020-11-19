@@ -10,7 +10,7 @@
   max-width: 900px;
 }
 
-body, main, header, footer {
+body, header, main, footer {
   padding: 0 5%;
 }
 
@@ -37,30 +37,21 @@ p, li, th {
   font-size: 1.5em;
 }
 
-header p {
-  font-size: 2em;
-  font-weight: bold;
-}
-
 /* ------------------------------------- FLEX / FLEX / FLEX --------------------------------------------*/
 
-main, footer, .header_wrapper, .social_links, .profile {
+header, main, footer, .profile, .social_links {
   display: flex;
 }
 
-.header_wrapper {
+header, footer {
   align-items: center;
-}
-
-main {
-  align-items: stretch;
 }
 
 .content, .profile, footer {
   flex-direction: column;
 }
 
-.header_wrapper, .social_links {
+header, .social_links {
   justify-content: space-between;
 }
 
@@ -70,7 +61,6 @@ main {
 
 .profile {
   flex: 1;  
-  align-items: flex-start;
 }
 
 #skillsTable, .social_links {
@@ -130,7 +120,6 @@ th {
 
 /*--------------------------------------- PROFILE / STYLE --------------------------- */
 .profile section {
-  align-self: center;
   text-align: center;
 }
 
@@ -141,7 +130,6 @@ th {
 /* ------------------------------------ FOOTER | SECTION - SYTLE -------------------------- */
 footer {
   bottom: 0;
-  align-items: center;
 }
 
 footer .social_links i {
