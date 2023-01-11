@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css" />
+
+    <script src="main.js" defer></script>
+    <title>Space - The Final Frontier</title>
+  </head>
+  <body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-4">
+      <div class="container">
+        <a href="#" class="navbar-brand text-info text-lg"><span>Space - The Final Frontier</span></a>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navmenu">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navmenu">
+          <ul class="navbar-nav ms-auto text-center">
+            <li class="nav-item">
+              <a href="#mars" class="nav-link">Mars</a>
+            </li>
+            <li class="nav-item">
+              <a href="#earth" class="nav-link">Earth</a>
+            </li>
+            <li class="nav-item">
+              <a href="#jupiter" class="nav-link">Jupiter</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- Showcase -->
+    <section class="bg-info text-light p-5 text-center text-sm-start">
+      <div class="container">
+        <i class="bi bi-brightness-high-fill"></i>
+        <!-- the d-sm-flex class disables flexbox once it hits mobile sizes -->
+        <div class="d-sm-flex align-items-center justify-content-between">
+          <div class="my-4">
+            <h1 class="text-success">Hola! Me llamo Harold!</h1>
+            <p class="lead">Y este es mi front-end-portfolio-project</p>
+            <button class="btn btn-primary btn-lg">Planet Selection</button>
+          </div>
+
+          <img class="img-fluid w-50 d-none d-sm-block" src="./assets/creation.svg" alt="undraw-creation" />
+        </div>
+      </div>
+    </section>
+
+    <!-- Planets -->
+    <section class="bg-dark">
+      <div class="container align-items-center">
+        <div class="row text-center">
+          <div class="col-md card p-4 bg-secondary planet-card mars" style="width: 18rem">
+            <img alt="" class="card-img-top" />
+            <div class="card-body">
+              <h5 class="card-title"></h5>
+              <p class="card-text"></p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+
+          <div class="col-md card p-4 bg-secondary planet-card earth" style="width: 18rem">
+            <img alt="" class="card-img-top" />
+            <div class="card-body">
+              <h5 class="card-title"></h5>
+              <p class="card-text"></p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+
+          <div class="col-md card p-4 bg-secondary planet-card jupiter" style="width: 18rem">
+            <img alt="" class="card-img-top" />
+            <div class="card-body">
+              <h5 class="card-title"></h5>
+              <p class="card-text"></p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- NASA APOD -->
+    <div class="container">
+      <img src="" alt="" class="h-10 mx-auto d-block img-thumbnail nasa-image" />
+      <p class="nasa-description"></p>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+  </body>
+</html>
