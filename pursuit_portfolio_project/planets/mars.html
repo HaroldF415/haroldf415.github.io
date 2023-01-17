@@ -46,9 +46,9 @@
     <!-- Rover Selection -->
     <section class="bg-dark-subtle">
       <div class="container bg-dark-subtle w-50">
-        <select class="form-select" aria-label="Rover Selection">
-          <option selected>Select a rover:</option>
-          <option value="curiosity">Curiosity</option>
+        <label for="rover_selection"><span class="h3">Select a rover: </span></label>
+        <select class="form-select rover_selection" aria-label="Rover Selection" name="rover_selection">
+          <option value="curiosity" selected>Curiosity</option>
           <option value="opportunity">Opportunity</option>
           <option value="spirit">Spirit</option>
         </select>
@@ -61,8 +61,8 @@
         <div class="row">
           <div class="col-md">
             <div class="card bg-dark text-info">
-              <div class="card-body text-center">
-                <h2 class="card-title py-4">Manifest Information</h2>
+              <div class="card-body text-right">
+                <div class="container text-center"><h2 class="card-title py-4">Manifest Information</h2></div>
                 <p class="card-text manifest_name"><strong>Name: .......... </strong></p>
                 <p class="card-text manifest_launch_date"><strong>Launch Date: .......... </strong></p>
                 <p class="card-text manifest_landing_date"><strong>Landing Date: .......... </strong></p>
@@ -77,43 +77,25 @@
       </div>
     </section>
 
-    <!-- Planets -->
-    <section class="bg-dark">
-      <div class="container align-items-center">
-        <div class="row text-center">
-          <div class="col-md card p-4 bg-secondary mx-auto planet-card-mars" style="width: 18rem">
-            <img alt="" class="card-img-top" />
-            <div class="card-body">
-              <div class="bg-dark rounded p-1"><p class="card-title p0"></p></div>
-              <p class="card-text p1"></p>
-              <p class="card-text p2"></p>
-              <p class="card-text p3"></p>
-              <a href="#" class="btn btn-dark">Go somewhere</a>
-            </div>
-          </div>
+    <!-- Sol Selection -->
+    <section class="bg-dark text-light py-4 sol_selection_container">
+      <div class="container w-50">
+        <label for="sol_selection"><span class="h3">Select Sol date: </span></label>
+        <select name="sol_selection" id="sol_selection" class="form-select sol_selection">
+          <!-- how to put a placeholder on an option element -->
+          <option value="placeholder" placeholder="select" selected></option>
+        </select>
+      </div>
+    </section>
 
-          <div class="col-md card p-4 bg-secondary mx-auto planet-card-mars" style="width: 18rem">
-            <img alt="" class="card-img-top" />
-            <div class="card-body">
-              <div class="bg-dark rounded p-1"><p class="card-title p0"></p></div>
-              <p class="card-text p1"></p>
-              <p class="card-text p2"></p>
-              <p class="card-text p3"></p>
-              <a href="#" class="btn btn-dark">Go somewhere</a>
-            </div>
-          </div>
+    <!-- Photos available by sol -->
+    <section class="bg-dark-subtle py-4 sol_container"></section>
 
-          <div class="col-md card p-4 bg-secondary mx-auto planet-card-mars" style="width: 18rem">
-            <img alt="" class="card-img-top rounded" />
-            <div class="card-body">
-              <div class="bg-dark rounded p-1"><p class="card-title p0"></p></div>
-              <p class="card-text p1"></p>
-              <p class="card-text p2"></p>
-              <p class="card-text p3"></p>
-              <a href="#" class="btn btn-dark">Go somewhere</a>
-            </div>
-          </div>
-        </div>
+    <!-- Camera Selection -->
+    <section class="bg-dark text-light py-4 camera_selection_container">
+      <div class="container w-50">
+        <label for="camera_selection"><span class="h3">Select a Rover Camera: </span></label>
+        <select name="camera_selection" id="camera_selection" class="form-select camera_select"></select>
       </div>
     </section>
 
