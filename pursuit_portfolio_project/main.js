@@ -1,4 +1,4 @@
-fetch("https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY")
+fetch("https://api.nasa.gov/planetary/apod?api_key=cj41OPe4xFddhFHxeEB4iMST6rzNpBJwSpsQc5Zw")
   .then((response) => response.json())
   .then((response) => displayOnLoad(response))
   .catch((error) => console.log(error));

@@ -14,7 +14,7 @@ roverSelection.addEventListener("change", (event) => {
 
 function changeDisplay(roverName) {
   const landingPage = document.querySelector(".landing-img");
-  landingPage.src = `../../assets/rovers/mars_${roverName}_rover.jpg`;
+  landingPage.src = `../assets/rovers/mars_${roverName}_rover.jpg`;
 }
 
 function fetchInformation(roverName, fetchType) {
@@ -25,7 +25,7 @@ function fetchInformation(roverName, fetchType) {
 
 function fetchManifest(roverName) {
   const baseURL = "https://api.nasa.gov/mars-photos/api/v1/manifests/";
-  const apiKey = "DEMO_KEY";
+  const apiKey = "cj41OPe4xFddhFHxeEB4iMST6rzNpBJwSpsQc5Zw";
 
   fetch(`${baseURL}${roverName}/?api_key=${apiKey}`)
     .then((response) => response.json())
