@@ -18,7 +18,7 @@ roverSelection.addEventListener("change", (event) => {
 
 function changeDisplay(roverName) {
   const landingPage = document.querySelector(".landing-img");
-  landingPage.src = `../../assets/rovers/mars_${roverName}_rover.jpg`;
+  landingPage.src = `../assets/rovers/mars_${roverName}_rover.jpg`;
 }
 
 function fetchInformation(URL_INFO) {
